@@ -1,0 +1,25 @@
+name: Update pool calendar
+on:
+  schedule:
+    - cron: "17 */12 * * *"   # every 12 hours
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: python make_calendar.py pool.ics
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # Ignore DTSTAMP-only changes
+          if git diff --quiet -I '^DTSTAMP' -- pool.ics 2>/dev/null && git ls-files --error-unmatch pool.ics >/dev/null 2>&1; then
+            git checkout -- pool.ics; echo "No changes"; exit 0
+          fi
+          git add pool.ics && git commit -m "Update pool hours" && git push
