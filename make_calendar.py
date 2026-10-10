@@ -1,7 +1,7 @@
 """Scrape Harvard and MIT pool schedules and write open swim hours to pool.ics.
 
 Harvard: MAC and Blodgett pool hours from the Harvard Rec facility hours page.
-MIT: Z Center and Alumni Pool, shown as open whenever more than MIT_MIN_LANES
+MIT: Z Center and Alumni Pool, shown as open whenever at least MIT_MIN_LANES
 lanes across the facility are marked "Open Rec Swim".
 """
 import os
@@ -19,7 +19,7 @@ LOCATIONS = {"MAC Pool": "Malkin Athletic Center, 39 Holyoke St, Cambridge, MA",
              "Blodgett Pool": "Blodgett Pool, 65 N Harvard St, Boston, MA"}
 TZ = "America/New_York"
 
-MIT_MIN_LANES = 4  # facility is "open" when more than this many lanes are rec swim
+MIT_MIN_LANES = 3  # facility is "open" when at least this many lanes are rec swim
 MIT_WEEKS = 4
 MIT_FACILITIES = [
     # (name, schedule url, location, {data-pool: sub-pool label})
@@ -167,10 +167,25 @@ def build_events(table, cols, today):
     return events
 
 
-def to_ics(events):
+# One output calendar per facility, keyed by the UID facility slug.
+CALENDARS = [
+    ("mac.ics", "MAC Pool (Harvard)", "harvard-mac"),
+    ("blodgett.ics", "Blodgett Pool (Harvard)", "harvard-blodgett"),
+    ("mit-zcenter.ics", "Z Center Pool (MIT)", "mit-zcenter"),
+    ("mit-alumni.ics", "Alumni Pool (MIT)", "mit-alumnipool"),
+]
+UID_KEY_RE = re.compile(r"^(harvard|mit)-\d{8}-([a-z]+)")
+
+
+def uid_key(uid):
+    m = UID_KEY_RE.match(uid)
+    return f"{m.group(1)}-{m.group(2)}" if m else ""
+
+
+def to_ics(events, calname):
     stamp = datetime.utcnow().strftime("%Y%m%dT%H%M%SZ")
     lines = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//harvard-pool-calendar//EN",
-             "CALSCALE:GREGORIAN", "METHOD:PUBLISH", "X-WR-CALNAME:Harvard + MIT Pool Hours",
+             "CALSCALE:GREGORIAN", "METHOD:PUBLISH", f"X-WR-CALNAME:{calname}",
              f"X-WR-TIMEZONE:{TZ}", "REFRESH-INTERVAL;VALUE=DURATION:PT6H",
              "X-PUBLISHED-TTL:PT6H", *VTIMEZONE.splitlines()]
     for e in events:
@@ -269,11 +284,11 @@ def mit_events(today):
                       for minute in range(24 * 60)]
             minute = 0
             while minute < 24 * 60:
-                if sum(counts[minute]) <= MIT_MIN_LANES:
+                if sum(counts[minute]) < MIT_MIN_LANES:
                     minute += 1
                     continue
                 start = minute
-                while minute < 24 * 60 and sum(counts[minute]) > MIT_MIN_LANES:
+                while minute < 24 * 60 and sum(counts[minute]) >= MIT_MIN_LANES:
                     minute += 1
                 segs, s = [], start
                 for t in range(start + 1, minute + 1):
@@ -294,18 +309,23 @@ def mit_events(today):
 
 
 def old_events(path, prefix):
-    """VEVENT blocks with the given UID prefix from a previous calendar file."""
+    """{uid: VEVENT block} for UIDs with the given prefix from a previous calendar file."""
     if not os.path.exists(path):
-        return []
+        return {}
     text = open(path, encoding="utf-8").read()
-    return [b for b in re.findall(r"BEGIN:VEVENT\r?\n.*?END:VEVENT", text, flags=re.S)
-            if re.search(rf"^UID:{prefix}-", b, flags=re.M)]
+    blocks = re.findall(r"BEGIN:VEVENT\r?\n.*?END:VEVENT", text, flags=re.S)
+    out = {}
+    for b in blocks:
+        m = re.search(r"^UID:(\S+?)@", b, flags=re.M)
+        if m and m.group(1).startswith(prefix + "-"):
+            out[m.group(1)] = b
+    return out
 
 
 def main():
-    out = sys.argv[1] if len(sys.argv) > 1 else "pool.ics"
+    outdir = sys.argv[1] if len(sys.argv) > 1 else "."
     today = date.today()
-    events, kept, ok = [], [], 0
+    events, kept, ok = [], {}, 0
     for prefix, source in (("harvard", harvard_events), ("mit", mit_events)):
         try:
             evs = source(today)
@@ -315,17 +335,22 @@ def main():
             ok += 1
             print(f"{prefix}: {len(evs)} events")
         except BaseException as e:
-            old = old_events(out, prefix)
-            kept += old
+            old = {}
+            for filename, _, _ in CALENDARS:
+                old.update(old_events(os.path.join(outdir, filename), prefix))
+            kept.update(old)
             print(f"{prefix} FAILED ({e!r}); keeping {len(old)} previous events", file=sys.stderr)
     if not ok:
         sys.exit("All sources failed -- refusing to overwrite calendar")
-    ics = to_ics(events)
-    if kept:
-        ics = ics.replace("END:VCALENDAR", "\r\n".join(kept) + "\r\nEND:VCALENDAR")
-    with open(out, "w", encoding="utf-8", newline="") as f:
-        f.write(ics)
-    print(f"Wrote {len(events) + len(kept)} events to {out}")
+    for filename, calname, key in CALENDARS:
+        evs = [e for e in events if uid_key(e["uid"]) == key]
+        old = [b for uid, b in kept.items() if uid_key(uid) == key]
+        ics = to_ics(evs, calname)
+        if old:
+            ics = ics.replace("END:VCALENDAR", "\r\n".join(old) + "\r\nEND:VCALENDAR")
+        with open(os.path.join(outdir, filename), "w", encoding="utf-8", newline="") as f:
+            f.write(ics)
+        print(f"Wrote {len(evs) + len(old)} events to {filename}")
 
 
 if __name__ == "__main__":

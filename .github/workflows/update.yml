@@ -13,13 +13,14 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - run: python make_calendar.py pool.ics
+      - run: python make_calendar.py .
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           # Ignore DTSTAMP-only changes
-          if git diff --quiet -I '^DTSTAMP' -- pool.ics 2>/dev/null && git ls-files --error-unmatch pool.ics >/dev/null 2>&1; then
-            git checkout -- pool.ics; echo "No changes"; exit 0
+          git add -N *.ics
+          if git diff --quiet -I '^DTSTAMP' -- '*.ics'; then
+            git checkout -- '*.ics'; echo "No changes"; exit 0
           fi
-          git add pool.ics && git commit -m "Update pool hours" && git push
+          git add *.ics && git commit -m "Update pool hours" && git push
