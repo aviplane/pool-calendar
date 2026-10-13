@@ -25,118 +25,38 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:mit-20261005-zcenter-360@harvard-pool-calendar
-DTSTAMP:20261010T191626Z
-DTSTART;TZID=America/New_York:20261005T060000
-DTEND;TZID=America/New_York:20261005T230000
-SUMMARY:MIT Z Center rec swim (4-24 lanes)
+UID:mit-20261012-zcenter-360@harvard-pool-calendar
+DTSTAMP:20261013T191610Z
+DTSTART;TZID=America/New_York:20261012T060000
+DTEND;TZID=America/New_York:20261012T230000
+SUMMARY:MIT Z Center rec swim (16-26 lanes)
 LOCATION:MIT Zesiger Center\, 120 Vassar St\, Cambridge\, MA
-DESCRIPTION:Open Rec Swim lanes:\n6am-6:15am: 24 lanes (Competition 10\, Dive Well 8\, Teaching 6)\n6:15am-7:30am: 18 lanes (Competition 4\, Dive Well 8\, Teaching 6)\n7:30am-7:45am: 14 lanes (Competition 4\, Dive Well 4\, Teaching 6)\n7:45am-9am: 10 lanes (Competition 4\, Dive Well 0\, Teaching 6)\n9am-10:45am: 16 lanes (Competition 10\, Dive Well 0\, Teaching 6)\n10:45am-12pm: 10 lanes (Competition 10\, Dive Well 0\, Teaching 0)\n12pm-12:15pm: 5 lanes (Competition 5\, Dive Well 0\, Teaching 0)\n12:15pm-12:45pm: 11 lanes (Competition 5\, Dive Well 0\, Teaching 6)\n12:45pm-1:15pm: 5 lanes (Competition 5\, Dive Well 0\, Teaching 0)\n1:15pm-3pm: 10 lanes (Competition 10\, Dive Well 0\, Teaching 0)\n3pm-3:15pm: 18 lanes (Competition 10\, Dive Well 8\, Teaching 0)\n3:15pm-4pm: 24 lanes (Competition 10\, Dive Well 8\, Teaching 6)\n4pm-5pm: 22 lanes (Competition 8\, Dive Well 8\, Teaching 6)\n5pm-5:30pm: 6 lanes (Competition 0\, Dive Well 0\, Teaching 6)\n5:30pm-7pm: 4 lanes (Competition 0\, Dive Well 0\, Teaching 4)\n7pm-7:15pm: 22 lanes (Competition 10\, Dive Well 8\, Teaching 4)\n7:15pm-7:30pm: 15 lanes (Competition 7\, Dive Well 4\, Teaching 4)\n7:30pm-8:30pm: 17 lanes (Competition 7\, Dive Well 4\, Teaching 6)\n8:30pm-9pm: 21 lanes (Competition 7\, Dive Well 8\, Teaching 6)\n9pm-11pm: 10 lanes (Competition 10\, Dive Well 0\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mit-20261006-zcenter-360@harvard-pool-calendar
-DTSTAMP:20261010T191626Z
-DTSTART;TZID=America/New_York:20261006T060000
-DTEND;TZID=America/New_York:20261006T230000
-SUMMARY:MIT Z Center rec swim (4-24 lanes)
-LOCATION:MIT Zesiger Center\, 120 Vassar St\, Cambridge\, MA
-DESCRIPTION:Open Rec Swim lanes:\n6am-6:15am: 24 lanes (Competition 10\, Dive Well 8\, Teaching 6)\n6:15am-7:30am: 18 lanes (Competition 4\, Dive Well 8\, Teaching 6)\n7:30am-8am: 24 lanes (Competition 10\, Dive Well 8\, Teaching 6)\n8am-10:45am: 16 lanes (Competition 10\, Dive Well 0\, Teaching 6)\n10:45am-12:15pm: 10 lanes (Competition 10\, Dive Well 0\, Teaching 0)\n12:15pm-12:45pm: 16 lanes (Competition 10\, Dive Well 0\, Teaching 6)\n12:45pm-3:15pm: 10 lanes (Competition 10\, Dive Well 0\, Teaching 0)\n3:15pm-4pm: 16 lanes (Competition 10\, Dive Well 0\, Teaching 6)\n4pm-4:30pm: 14 lanes (Competition 8\, Dive Well 0\, Teaching 6)\n4:30pm-4:45pm: 4 lanes (Competition 0\, Dive Well 0\, Teaching 4)\n4:45pm-5:30pm: 6 lanes (Competition 0\, Dive Well 0\, Teaching 6)\n5:30pm-7pm: 4 lanes (Competition 0\, Dive Well 0\, Teaching 4)\n7pm-7:15pm: 8 lanes (Competition 0\, Dive Well 4\, Teaching 4)\n7:15pm-7:30pm: 9 lanes (Competition 5\, Dive Well 0\, Teaching 4)\n7:30pm-8pm: 11 lanes (Competition 5\, Dive Well 0\, Teaching 6)\n8pm-8:15pm: 15 lanes (Competition 5\, Dive Well 4\, Teaching 6)\n8:15pm-8:30pm: 20 lanes (Competition 10\, Dive Well 4\, Teaching 6)\n8:30pm-9pm: 24 lanes (Competition 10\, Dive Well 8\, Teaching 6)\n9pm-11pm: 10 lanes (Competition 10\, Dive Well 0\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mit-20261007-zcenter-360@harvard-pool-calendar
-DTSTAMP:20261010T191626Z
-DTSTART;TZID=America/New_York:20261007T060000
-DTEND;TZID=America/New_York:20261007T230000
-SUMMARY:MIT Z Center rec swim (4-24 lanes)
-LOCATION:MIT Zesiger Center\, 120 Vassar St\, Cambridge\, MA
-DESCRIPTION:Open Rec Swim lanes:\n6am-6:15am: 24 lanes (Competition 10\, Dive Well 8\, Teaching 6)\n6:15am-7:30am: 18 lanes (Competition 4\, Dive Well 8\, Teaching 6)\n7:30am-7:45am: 14 lanes (Competition 0\, Dive Well 8\, Teaching 6)\n7:45am-9am: 6 lanes (Competition 0\, Dive Well 0\, Teaching 6)\n9am-10:45am: 16 lanes (Competition 10\, Dive Well 0\, Teaching 6)\n10:45am-12pm: 10 lanes (Competition 10\, Dive Well 0\, Teaching 0)\n12pm-12:15pm: 5 lanes (Competition 5\, Dive Well 0\, Teaching 0)\n12:15pm-12:45pm: 11 lanes (Competition 5\, Dive Well 0\, Teaching 6)\n12:45pm-1:15pm: 5 lanes (Competition 5\, Dive Well 0\, Teaching 0)\n1:15pm-3:15pm: 10 lanes (Competition 10\, Dive Well 0\, Teaching 0)\n3:15pm-4:30pm: 16 lanes (Competition 10\, Dive Well 0\, Teaching 6)\n4:30pm-5:30pm: 6 lanes (Competition 0\, Dive Well 0\, Teaching 6)\n5:30pm-7pm: 4 lanes (Competition 0\, Dive Well 0\, Teaching 4)\n7pm-7:15pm: 12 lanes (Competition 0\, Dive Well 8\, Teaching 4)\n7:15pm-7:30pm: 13 lanes (Competition 5\, Dive Well 4\, Teaching 4)\n7:30pm-8:15pm: 15 lanes (Competition 5\, Dive Well 4\, Teaching 6)\n8:15pm-8:30pm: 9 lanes (Competition 5\, Dive Well 4\, Teaching 0)\n8:30pm-9pm: 13 lanes (Competition 5\, Dive Well 8\, Teaching 0)\n9pm-9:15pm: 5 lanes (Competition 5\, Dive Well 0\, Teaching 0)\n9:15pm-11pm: 10 lanes (Competition 10\, Dive Well 0\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mit-20261008-zcenter-360@harvard-pool-calendar
-DTSTAMP:20261010T191626Z
-DTSTART;TZID=America/New_York:20261008T060000
-DTEND;TZID=America/New_York:20261008T230000
-SUMMARY:MIT Z Center rec swim (4-21 lanes)
-LOCATION:MIT Zesiger Center\, 120 Vassar St\, Cambridge\, MA
-DESCRIPTION:Open Rec Swim lanes:\n6am-6:15am: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n6:15am-7:30am: 12 lanes (Competition 6\, Dive Well 0\, Teaching 6)\n7:30am-10am: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n10am-10:45am: 17 lanes (Competition 11\, Dive Well 0\, Teaching 6)\n10:45am-12pm: 11 lanes (Competition 11\, Dive Well 0\, Teaching 0)\n12pm-12:15pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n12:15pm-12:45pm: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n12:45pm-3pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n3pm-3:15pm: 7 lanes (Competition 7\, Dive Well 0\, Teaching 0)\n3:15pm-4:30pm: 13 lanes (Competition 7\, Dive Well 0\, Teaching 6)\n4:30pm-5:30pm: 6 lanes (Competition 0\, Dive Well 0\, Teaching 6)\n5:30pm-7:15pm: 4 lanes (Competition 0\, Dive Well 0\, Teaching 4)\n7:15pm-7:30pm: 12 lanes (Competition 8\, Dive Well 0\, Teaching 4)\n7:30pm-8pm: 14 lanes (Competition 8\, Dive Well 0\, Teaching 6)\n8pm-8:15pm: 21 lanes (Competition 8\, Dive Well 7\, Teaching 6)\n8:15pm-8:30pm: 15 lanes (Competition 8\, Dive Well 7\, Teaching 0)\n8:30pm-9pm: 19 lanes (Competition 12\, Dive Well 7\, Teaching 0)\n9pm-10:30pm: 8 lanes (Competition 8\, Dive Well 0\, Teaching 0)\n10:30pm-11pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mit-20261009-zcenter-360@harvard-pool-calendar
-DTSTAMP:20261010T191626Z
-DTSTART;TZID=America/New_York:20261009T060000
-DTEND;TZID=America/New_York:20261009T230000
-SUMMARY:MIT Z Center rec swim (4-25 lanes)
-LOCATION:MIT Zesiger Center\, 120 Vassar St\, Cambridge\, MA
-DESCRIPTION:Open Rec Swim lanes:\n6am-6:15am: 25 lanes (Competition 12\, Dive Well 7\, Teaching 6)\n6:15am-7:30am: 19 lanes (Competition 6\, Dive Well 7\, Teaching 6)\n7:30am-8am: 25 lanes (Competition 12\, Dive Well 7\, Teaching 6)\n8am-12pm: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n12pm-1:15pm: 13 lanes (Competition 7\, Dive Well 0\, Teaching 6)\n1:15pm-2:30pm: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n2:30pm-5pm: 13 lanes (Competition 0\, Dive Well 7\, Teaching 6)\n5pm-5:30pm: 6 lanes (Competition 0\, Dive Well 0\, Teaching 6)\n5:30pm-7pm: 4 lanes (Competition 0\, Dive Well 0\, Teaching 4)\n7pm-7:15pm: 23 lanes (Competition 12\, Dive Well 7\, Teaching 4)\n7:15pm-7:30pm: 19 lanes (Competition 12\, Dive Well 3\, Teaching 4)\n7:30pm-8:30pm: 21 lanes (Competition 12\, Dive Well 3\, Teaching 6)\n8:30pm-9pm: 25 lanes (Competition 12\, Dive Well 7\, Teaching 6)\n9pm-11pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mit-20261010-zcenter-420@harvard-pool-calendar
-DTSTAMP:20261010T191626Z
-DTSTART;TZID=America/New_York:20261010T070000
-DTEND;TZID=America/New_York:20261010T210000
-SUMMARY:MIT Z Center rec swim (7-25 lanes)
-LOCATION:MIT Zesiger Center\, 120 Vassar St\, Cambridge\, MA
-DESCRIPTION:Open Rec Swim lanes:\n7am-8:30am: 13 lanes (Competition 0\, Dive Well 7\, Teaching 6)\n8:30am-9am: 7 lanes (Competition 0\, Dive Well 7\, Teaching 0)\n9am-10am: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n10am-10:30am: 7 lanes (Competition 7\, Dive Well 0\, Teaching 0)\n10:30am-12pm: 14 lanes (Competition 7\, Dive Well 7\, Teaching 0)\n12pm-12:45pm: 19 lanes (Competition 12\, Dive Well 7\, Teaching 0)\n12:45pm-1:30pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n1:30pm-3:15pm: 16 lanes (Competition 12\, Dive Well 0\, Teaching 4)\n3:15pm-4pm: 23 lanes (Competition 12\, Dive Well 7\, Teaching 4)\n4pm-6pm: 11 lanes (Competition 0\, Dive Well 7\, Teaching 4)\n6pm-8:45pm: 13 lanes (Competition 0\, Dive Well 7\, Teaching 6)\n8:45pm-9pm: 25 lanes (Competition 12\, Dive Well 7\, Teaching 6)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mit-20261011-zcenter-540@harvard-pool-calendar
-DTSTAMP:20261010T191626Z
-DTSTART;TZID=America/New_York:20261011T090000
-DTEND;TZID=America/New_York:20261011T100000
-SUMMARY:MIT Z Center rec swim (12 lanes)
-LOCATION:MIT Zesiger Center\, 120 Vassar St\, Cambridge\, MA
-DESCRIPTION:Open Rec Swim lanes:\n9am-10am: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mit-20261011-zcenter-870@harvard-pool-calendar
-DTSTAMP:20261010T191626Z
-DTSTART;TZID=America/New_York:20261011T143000
-DTEND;TZID=America/New_York:20261011T210000
-SUMMARY:MIT Z Center rec swim (13-25 lanes)
-LOCATION:MIT Zesiger Center\, 120 Vassar St\, Cambridge\, MA
-DESCRIPTION:Open Rec Swim lanes:\n2:30pm-2:45pm: 13 lanes (Competition 0\, Dive Well 7\, Teaching 6)\n2:45pm-3pm: 25 lanes (Competition 12\, Dive Well 7\, Teaching 6)\n3pm-9pm: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mit-20261012-zcenter-840@harvard-pool-calendar
-DTSTAMP:20261010T191626Z
-DTSTART;TZID=America/New_York:20261012T140000
-DTEND;TZID=America/New_York:20261012T210000
-SUMMARY:MIT Z Center rec swim (16-25 lanes)
-LOCATION:MIT Zesiger Center\, 120 Vassar St\, Cambridge\, MA
-DESCRIPTION:Open Rec Swim lanes:\n2pm-7pm: 25 lanes (Competition 12\, Dive Well 7\, Teaching 6)\n7pm-9pm: 16 lanes (Competition 7\, Dive Well 3\, Teaching 6)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
+DESCRIPTION:Open Rec Swim lanes:\n6am-2pm: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n2pm-7pm: 25 lanes (Competition 12\, Dive Well 7\, Teaching 6)\n7pm-9pm: 16 lanes (Competition 7\, Dive Well 3\, Teaching 6)\n9pm-11pm: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mit-20261013-zcenter-360@harvard-pool-calendar
-DTSTAMP:20261010T191626Z
+DTSTAMP:20261013T191610Z
 DTSTART;TZID=America/New_York:20261013T060000
 DTEND;TZID=America/New_York:20261013T230000
-SUMMARY:MIT Z Center rec swim (4-26 lanes)
+SUMMARY:MIT Z Center rec swim (4-25 lanes)
 LOCATION:MIT Zesiger Center\, 120 Vassar St\, Cambridge\, MA
-DESCRIPTION:Open Rec Swim lanes:\n6am-6:15am: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n6:15am-7am: 12 lanes (Competition 6\, Dive Well 0\, Teaching 6)\n7am-7:30am: 19 lanes (Competition 6\, Dive Well 7\, Teaching 6)\n7:30am-8am: 25 lanes (Competition 12\, Dive Well 7\, Teaching 6)\n8am-10am: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n10am-12pm: 17 lanes (Competition 11\, Dive Well 0\, Teaching 6)\n12pm-1:15pm: 12 lanes (Competition 6\, Dive Well 0\, Teaching 6)\n1:15pm-4pm: 17 lanes (Competition 11\, Dive Well 0\, Teaching 6)\n4pm-4:30pm: 16 lanes (Competition 10\, Dive Well 0\, Teaching 6)\n4:30pm-4:45pm: 4 lanes (Competition 0\, Dive Well 0\, Teaching 4)\n4:45pm-5:30pm: 6 lanes (Competition 0\, Dive Well 0\, Teaching 6)\n5:30pm-7pm: 4 lanes (Competition 0\, Dive Well 0\, Teaching 4)\n7pm-7:15pm: 8 lanes (Competition 0\, Dive Well 4\, Teaching 4)\n7:15pm-7:30pm: 11 lanes (Competition 7\, Dive Well 0\, Teaching 4)\n7:30pm-8pm: 13 lanes (Competition 7\, Dive Well 0\, Teaching 6)\n8pm-8:15pm: 17 lanes (Competition 7\, Dive Well 4\, Teaching 6)\n8:15pm-8:30pm: 22 lanes (Competition 12\, Dive Well 4\, Teaching 6)\n8:30pm-9pm: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n9pm-11pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
+DESCRIPTION:Open Rec Swim lanes:\n6am-6:15am: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n6:15am-7am: 12 lanes (Competition 6\, Dive Well 0\, Teaching 6)\n7am-7:30am: 19 lanes (Competition 6\, Dive Well 7\, Teaching 6)\n7:30am-8am: 25 lanes (Competition 12\, Dive Well 7\, Teaching 6)\n8am-10am: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n10am-12pm: 16 lanes (Competition 10\, Dive Well 0\, Teaching 6)\n12pm-1:15pm: 11 lanes (Competition 5\, Dive Well 0\, Teaching 6)\n1:15pm-4pm: 16 lanes (Competition 10\, Dive Well 0\, Teaching 6)\n4pm-4:30pm: 14 lanes (Competition 8\, Dive Well 0\, Teaching 6)\n4:30pm-4:45pm: 4 lanes (Competition 0\, Dive Well 0\, Teaching 4)\n4:45pm-5:30pm: 6 lanes (Competition 0\, Dive Well 0\, Teaching 6)\n5:30pm-7pm: 4 lanes (Competition 0\, Dive Well 0\, Teaching 4)\n7pm-7:15pm: 8 lanes (Competition 0\, Dive Well 4\, Teaching 4)\n7:15pm-7:30pm: 9 lanes (Competition 5\, Dive Well 0\, Teaching 4)\n7:30pm-8pm: 11 lanes (Competition 5\, Dive Well 0\, Teaching 6)\n8pm-8:15pm: 15 lanes (Competition 5\, Dive Well 4\, Teaching 6)\n8:15pm-8:30pm: 20 lanes (Competition 10\, Dive Well 4\, Teaching 6)\n8:30pm-9pm: 24 lanes (Competition 10\, Dive Well 8\, Teaching 6)\n9pm-11pm: 10 lanes (Competition 10\, Dive Well 0\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mit-20261014-zcenter-360@harvard-pool-calendar
-DTSTAMP:20261010T191626Z
+DTSTAMP:20261013T191610Z
 DTSTART;TZID=America/New_York:20261014T060000
 DTEND;TZID=America/New_York:20261014T230000
 SUMMARY:MIT Z Center rec swim (4-24 lanes)
 LOCATION:MIT Zesiger Center\, 120 Vassar St\, Cambridge\, MA
-DESCRIPTION:Open Rec Swim lanes:\n6am-6:15am: 24 lanes (Competition 10\, Dive Well 8\, Teaching 6)\n6:15am-7:30am: 18 lanes (Competition 4\, Dive Well 8\, Teaching 6)\n7:30am-7:45am: 14 lanes (Competition 0\, Dive Well 8\, Teaching 6)\n7:45am-9am: 6 lanes (Competition 0\, Dive Well 0\, Teaching 6)\n9am-10:15am: 16 lanes (Competition 10\, Dive Well 0\, Teaching 6)\n10:15am-10:45am: 24 lanes (Competition 10\, Dive Well 8\, Teaching 6)\n10:45am-11:15am: 18 lanes (Competition 10\, Dive Well 8\, Teaching 0)\n11:15am-12pm: 10 lanes (Competition 10\, Dive Well 0\, Teaching 0)\n12pm-12:15pm: 5 lanes (Competition 5\, Dive Well 0\, Teaching 0)\n12:15pm-12:45pm: 11 lanes (Competition 5\, Dive Well 0\, Teaching 6)\n12:45pm-1:15pm: 5 lanes (Competition 5\, Dive Well 0\, Teaching 0)\n1:15pm-3pm: 18 lanes (Competition 10\, Dive Well 8\, Teaching 0)\n3pm-3:15pm: 10 lanes (Competition 10\, Dive Well 0\, Teaching 0)\n3:15pm-4:30pm: 16 lanes (Competition 10\, Dive Well 0\, Teaching 6)\n4:30pm-5:30pm: 6 lanes (Competition 0\, Dive Well 0\, Teaching 6)\n5:30pm-7pm: 4 lanes (Competition 0\, Dive Well 0\, Teaching 4)\n7pm-7:15pm: 8 lanes (Competition 0\, Dive Well 4\, Teaching 4)\n7:15pm-7:30pm: 10 lanes (Competition 6\, Dive Well 0\, Teaching 4)\n7:30pm-8:15pm: 12 lanes (Competition 6\, Dive Well 0\, Teaching 6)\n8:15pm-8:30pm: 6 lanes (Competition 6\, Dive Well 0\, Teaching 0)\n8:30pm-9pm: 14 lanes (Competition 6\, Dive Well 8\, Teaching 0)\n9pm-9:15pm: 6 lanes (Competition 6\, Dive Well 0\, Teaching 0)\n9:15pm-11pm: 10 lanes (Competition 10\, Dive Well 0\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
+DESCRIPTION:Open Rec Swim lanes:\n6am-6:15am: 24 lanes (Competition 10\, Dive Well 8\, Teaching 6)\n6:15am-7:30am: 18 lanes (Competition 4\, Dive Well 8\, Teaching 6)\n7:30am-7:45am: 14 lanes (Competition 0\, Dive Well 8\, Teaching 6)\n7:45am-9am: 6 lanes (Competition 0\, Dive Well 0\, Teaching 6)\n9am-10:45am: 16 lanes (Competition 10\, Dive Well 0\, Teaching 6)\n10:45am-12pm: 10 lanes (Competition 10\, Dive Well 0\, Teaching 0)\n12pm-12:15pm: 5 lanes (Competition 5\, Dive Well 0\, Teaching 0)\n12:15pm-12:45pm: 11 lanes (Competition 5\, Dive Well 0\, Teaching 6)\n12:45pm-1:15pm: 5 lanes (Competition 5\, Dive Well 0\, Teaching 0)\n1:15pm-3:15pm: 10 lanes (Competition 10\, Dive Well 0\, Teaching 0)\n3:15pm-4:30pm: 16 lanes (Competition 10\, Dive Well 0\, Teaching 6)\n4:30pm-5:30pm: 6 lanes (Competition 0\, Dive Well 0\, Teaching 6)\n5:30pm-7pm: 4 lanes (Competition 0\, Dive Well 0\, Teaching 4)\n7pm-7:15pm: 8 lanes (Competition 0\, Dive Well 4\, Teaching 4)\n7:15pm-7:30pm: 9 lanes (Competition 5\, Dive Well 0\, Teaching 4)\n7:30pm-8:15pm: 11 lanes (Competition 5\, Dive Well 0\, Teaching 6)\n8:15pm-8:30pm: 5 lanes (Competition 5\, Dive Well 0\, Teaching 0)\n8:30pm-9pm: 13 lanes (Competition 5\, Dive Well 8\, Teaching 0)\n9pm-9:15pm: 5 lanes (Competition 5\, Dive Well 0\, Teaching 0)\n9:15pm-11pm: 10 lanes (Competition 10\, Dive Well 0\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mit-20261015-zcenter-360@harvard-pool-calendar
-DTSTAMP:20261010T191626Z
+DTSTAMP:20261013T191610Z
 DTSTART;TZID=America/New_York:20261015T060000
 DTEND;TZID=America/New_York:20261015T230000
 SUMMARY:MIT Z Center rec swim (4-24 lanes)
@@ -146,7 +66,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mit-20261016-zcenter-360@harvard-pool-calendar
-DTSTAMP:20261010T191626Z
+DTSTAMP:20261013T191610Z
 DTSTART;TZID=America/New_York:20261016T060000
 DTEND;TZID=America/New_York:20261016T230000
 SUMMARY:MIT Z Center rec swim (4-24 lanes)
@@ -156,182 +76,282 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mit-20261017-zcenter-420@harvard-pool-calendar
-DTSTAMP:20261010T191626Z
+DTSTAMP:20261013T191610Z
 DTSTART;TZID=America/New_York:20261017T070000
 DTEND;TZID=America/New_York:20261017T083000
-SUMMARY:MIT Z Center rec swim (6-24 lanes)
+SUMMARY:MIT Z Center rec swim (6-26 lanes)
 LOCATION:MIT Zesiger Center\, 120 Vassar St\, Cambridge\, MA
-DESCRIPTION:Open Rec Swim lanes:\n7am-8am: 24 lanes (Competition 10\, Dive Well 8\, Teaching 6)\n8am-8:30am: 6 lanes (Competition 0\, Dive Well 0\, Teaching 6)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
+DESCRIPTION:Open Rec Swim lanes:\n7am-8am: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n8am-8:30am: 6 lanes (Competition 0\, Dive Well 0\, Teaching 6)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mit-20261017-zcenter-810@harvard-pool-calendar
-DTSTAMP:20261010T191626Z
+DTSTAMP:20261013T191610Z
 DTSTART;TZID=America/New_York:20261017T133000
 DTEND;TZID=America/New_York:20261017T210000
-SUMMARY:MIT Z Center rec swim (5-18 lanes)
+SUMMARY:MIT Z Center rec swim (10-24 lanes)
 LOCATION:MIT Zesiger Center\, 120 Vassar St\, Cambridge\, MA
-DESCRIPTION:Open Rec Swim lanes:\n1:30pm-3pm: 18 lanes (Competition 10\, Dive Well 4\, Teaching 4)\n3pm-3:30pm: 5 lanes (Competition 0\, Dive Well 1\, Teaching 4)\n3:30pm-6pm: 8 lanes (Competition 0\, Dive Well 4\, Teaching 4)\n6pm-8:30pm: 10 lanes (Competition 0\, Dive Well 4\, Teaching 6)\n8:30pm-9pm: 11 lanes (Competition 0\, Dive Well 5\, Teaching 6)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
+DESCRIPTION:Open Rec Swim lanes:\n1:30pm-3pm: 24 lanes (Competition 12\, Dive Well 8\, Teaching 4)\n3pm-3:30pm: 11 lanes (Competition 2\, Dive Well 5\, Teaching 4)\n3:30pm-6pm: 10 lanes (Competition 2\, Dive Well 4\, Teaching 4)\n6pm-8:30pm: 12 lanes (Competition 2\, Dive Well 4\, Teaching 6)\n8:30pm-9pm: 13 lanes (Competition 2\, Dive Well 5\, Teaching 6)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mit-20261018-zcenter-540@harvard-pool-calendar
-DTSTAMP:20261010T191626Z
+DTSTAMP:20261013T191610Z
 DTSTART;TZID=America/New_York:20261018T090000
 DTEND;TZID=America/New_York:20261018T230000
-SUMMARY:MIT Z Center rec swim (5-24 lanes)
+SUMMARY:MIT Z Center rec swim (7-26 lanes)
 LOCATION:MIT Zesiger Center\, 120 Vassar St\, Cambridge\, MA
-DESCRIPTION:Open Rec Swim lanes:\n9am-10am: 10 lanes (Competition 10\, Dive Well 0\, Teaching 0)\n10am-10:30am: 5 lanes (Competition 5\, Dive Well 0\, Teaching 0)\n10:30am-11:15am: 8 lanes (Competition 5\, Dive Well 3\, Teaching 0)\n11:15am-2:30pm: 13 lanes (Competition 10\, Dive Well 3\, Teaching 0)\n2:30pm-3pm: 24 lanes (Competition 10\, Dive Well 8\, Teaching 6)\n3pm-3:30pm: 11 lanes (Competition 0\, Dive Well 5\, Teaching 6)\n3:30pm-8:30pm: 10 lanes (Competition 0\, Dive Well 4\, Teaching 6)\n8:30pm-9pm: 11 lanes (Competition 0\, Dive Well 5\, Teaching 6)\n9pm-11pm: 10 lanes (Competition 10\, Dive Well 0\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
+DESCRIPTION:Open Rec Swim lanes:\n9am-10am: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n10am-10:30am: 7 lanes (Competition 7\, Dive Well 0\, Teaching 0)\n10:30am-11:15am: 10 lanes (Competition 7\, Dive Well 3\, Teaching 0)\n11:15am-2:30pm: 15 lanes (Competition 12\, Dive Well 3\, Teaching 0)\n2:30pm-3pm: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n3pm-3:30pm: 13 lanes (Competition 2\, Dive Well 5\, Teaching 6)\n3:30pm-8:30pm: 12 lanes (Competition 2\, Dive Well 4\, Teaching 6)\n8:30pm-9pm: 13 lanes (Competition 2\, Dive Well 5\, Teaching 6)\n9pm-11pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mit-20261019-zcenter-360@harvard-pool-calendar
-DTSTAMP:20261010T191626Z
+DTSTAMP:20261013T191610Z
 DTSTART;TZID=America/New_York:20261019T060000
 DTEND;TZID=America/New_York:20261019T230000
-SUMMARY:MIT Z Center rec swim (4-24 lanes)
+SUMMARY:MIT Z Center rec swim (6-26 lanes)
 LOCATION:MIT Zesiger Center\, 120 Vassar St\, Cambridge\, MA
-DESCRIPTION:Open Rec Swim lanes:\n6am-6:15am: 24 lanes (Competition 10\, Dive Well 8\, Teaching 6)\n6:15am-7:30am: 18 lanes (Competition 4\, Dive Well 8\, Teaching 6)\n7:30am-7:45am: 14 lanes (Competition 4\, Dive Well 4\, Teaching 6)\n7:45am-9am: 10 lanes (Competition 4\, Dive Well 0\, Teaching 6)\n9am-10am: 16 lanes (Competition 10\, Dive Well 0\, Teaching 6)\n10am-10:15am: 17 lanes (Competition 10\, Dive Well 1\, Teaching 6)\n10:15am-10:45am: 16 lanes (Competition 10\, Dive Well 0\, Teaching 6)\n10:45am-12pm: 10 lanes (Competition 10\, Dive Well 0\, Teaching 0)\n12pm-12:15pm: 5 lanes (Competition 5\, Dive Well 0\, Teaching 0)\n12:15pm-12:45pm: 11 lanes (Competition 5\, Dive Well 0\, Teaching 6)\n12:45pm-1:15pm: 5 lanes (Competition 5\, Dive Well 0\, Teaching 0)\n1:15pm-3pm: 10 lanes (Competition 10\, Dive Well 0\, Teaching 0)\n3pm-3:15pm: 18 lanes (Competition 10\, Dive Well 8\, Teaching 0)\n3:15pm-4pm: 24 lanes (Competition 10\, Dive Well 8\, Teaching 6)\n4pm-5pm: 22 lanes (Competition 8\, Dive Well 8\, Teaching 6)\n5pm-5:30pm: 6 lanes (Competition 0\, Dive Well 0\, Teaching 6)\n5:30pm-7pm: 4 lanes (Competition 0\, Dive Well 0\, Teaching 4)\n7pm-7:15pm: 22 lanes (Competition 10\, Dive Well 8\, Teaching 4)\n7:15pm-7:30pm: 15 lanes (Competition 7\, Dive Well 4\, Teaching 4)\n7:30pm-8:30pm: 17 lanes (Competition 7\, Dive Well 4\, Teaching 6)\n8:30pm-9pm: 21 lanes (Competition 7\, Dive Well 8\, Teaching 6)\n9pm-11pm: 10 lanes (Competition 10\, Dive Well 0\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
+DESCRIPTION:Open Rec Swim lanes:\n6am-6:15am: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n6:15am-7:30am: 20 lanes (Competition 6\, Dive Well 8\, Teaching 6)\n7:30am-7:45am: 16 lanes (Competition 6\, Dive Well 4\, Teaching 6)\n7:45am-9am: 12 lanes (Competition 6\, Dive Well 0\, Teaching 6)\n9am-10am: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n10am-10:15am: 19 lanes (Competition 12\, Dive Well 1\, Teaching 6)\n10:15am-10:45am: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n10:45am-12pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n12pm-12:15pm: 7 lanes (Competition 7\, Dive Well 0\, Teaching 0)\n12:15pm-12:45pm: 13 lanes (Competition 7\, Dive Well 0\, Teaching 6)\n12:45pm-1:15pm: 7 lanes (Competition 7\, Dive Well 0\, Teaching 0)\n1:15pm-3pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n3pm-3:15pm: 20 lanes (Competition 12\, Dive Well 8\, Teaching 0)\n3:15pm-4pm: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n4pm-5pm: 24 lanes (Competition 10\, Dive Well 8\, Teaching 6)\n5pm-5:30pm: 8 lanes (Competition 2\, Dive Well 0\, Teaching 6)\n5:30pm-7pm: 6 lanes (Competition 2\, Dive Well 0\, Teaching 4)\n7pm-7:15pm: 24 lanes (Competition 12\, Dive Well 8\, Teaching 4)\n7:15pm-7:30pm: 17 lanes (Competition 9\, Dive Well 4\, Teaching 4)\n7:30pm-8:30pm: 19 lanes (Competition 9\, Dive Well 4\, Teaching 6)\n8:30pm-9pm: 23 lanes (Competition 9\, Dive Well 8\, Teaching 6)\n9pm-11pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mit-20261020-zcenter-360@harvard-pool-calendar
-DTSTAMP:20261010T191626Z
+DTSTAMP:20261013T191610Z
 DTSTART;TZID=America/New_York:20261020T060000
 DTEND;TZID=America/New_York:20261020T230000
-SUMMARY:MIT Z Center rec swim (4-24 lanes)
+SUMMARY:MIT Z Center rec swim (4-26 lanes)
 LOCATION:MIT Zesiger Center\, 120 Vassar St\, Cambridge\, MA
-DESCRIPTION:Open Rec Swim lanes:\n6am-6:15am: 24 lanes (Competition 10\, Dive Well 8\, Teaching 6)\n6:15am-7:30am: 18 lanes (Competition 4\, Dive Well 8\, Teaching 6)\n7:30am-8am: 24 lanes (Competition 10\, Dive Well 8\, Teaching 6)\n8am-10:45am: 16 lanes (Competition 10\, Dive Well 0\, Teaching 6)\n10:45am-12:15pm: 10 lanes (Competition 10\, Dive Well 0\, Teaching 0)\n12:15pm-12:45pm: 16 lanes (Competition 10\, Dive Well 0\, Teaching 6)\n12:45pm-3:15pm: 10 lanes (Competition 10\, Dive Well 0\, Teaching 0)\n3:15pm-4pm: 16 lanes (Competition 10\, Dive Well 0\, Teaching 6)\n4pm-4:30pm: 14 lanes (Competition 8\, Dive Well 0\, Teaching 6)\n4:30pm-4:45pm: 4 lanes (Competition 0\, Dive Well 0\, Teaching 4)\n4:45pm-5:30pm: 6 lanes (Competition 0\, Dive Well 0\, Teaching 6)\n5:30pm-7pm: 4 lanes (Competition 0\, Dive Well 0\, Teaching 4)\n7pm-7:15pm: 8 lanes (Competition 0\, Dive Well 4\, Teaching 4)\n7:15pm-7:30pm: 9 lanes (Competition 5\, Dive Well 0\, Teaching 4)\n7:30pm-8pm: 11 lanes (Competition 5\, Dive Well 0\, Teaching 6)\n8pm-8:15pm: 15 lanes (Competition 5\, Dive Well 4\, Teaching 6)\n8:15pm-8:30pm: 20 lanes (Competition 10\, Dive Well 4\, Teaching 6)\n8:30pm-9pm: 24 lanes (Competition 10\, Dive Well 8\, Teaching 6)\n9pm-11pm: 10 lanes (Competition 10\, Dive Well 0\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
+DESCRIPTION:Open Rec Swim lanes:\n6am-6:15am: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n6:15am-7:30am: 20 lanes (Competition 6\, Dive Well 8\, Teaching 6)\n7:30am-8am: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n8am-10:45am: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n10:45am-12:15pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n12:15pm-12:45pm: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n12:45pm-3:15pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n3:15pm-4pm: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n4pm-4:30pm: 16 lanes (Competition 10\, Dive Well 0\, Teaching 6)\n4:30pm-4:45pm: 4 lanes (Competition 0\, Dive Well 0\, Teaching 4)\n4:45pm-5:30pm: 6 lanes (Competition 0\, Dive Well 0\, Teaching 6)\n5:30pm-7pm: 4 lanes (Competition 0\, Dive Well 0\, Teaching 4)\n7pm-7:15pm: 8 lanes (Competition 0\, Dive Well 4\, Teaching 4)\n7:15pm-7:30pm: 11 lanes (Competition 7\, Dive Well 0\, Teaching 4)\n7:30pm-8pm: 13 lanes (Competition 7\, Dive Well 0\, Teaching 6)\n8pm-8:15pm: 17 lanes (Competition 7\, Dive Well 4\, Teaching 6)\n8:15pm-8:30pm: 22 lanes (Competition 12\, Dive Well 4\, Teaching 6)\n8:30pm-9pm: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n9pm-11pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mit-20261021-zcenter-360@harvard-pool-calendar
-DTSTAMP:20261010T191626Z
+DTSTAMP:20261013T191610Z
 DTSTART;TZID=America/New_York:20261021T060000
 DTEND;TZID=America/New_York:20261021T230000
-SUMMARY:MIT Z Center rec swim (4-24 lanes)
+SUMMARY:MIT Z Center rec swim (4-26 lanes)
 LOCATION:MIT Zesiger Center\, 120 Vassar St\, Cambridge\, MA
-DESCRIPTION:Open Rec Swim lanes:\n6am-6:15am: 24 lanes (Competition 10\, Dive Well 8\, Teaching 6)\n6:15am-7:30am: 18 lanes (Competition 4\, Dive Well 8\, Teaching 6)\n7:30am-7:45am: 14 lanes (Competition 0\, Dive Well 8\, Teaching 6)\n7:45am-9am: 6 lanes (Competition 0\, Dive Well 0\, Teaching 6)\n9am-10:15am: 16 lanes (Competition 10\, Dive Well 0\, Teaching 6)\n10:15am-10:45am: 24 lanes (Competition 10\, Dive Well 8\, Teaching 6)\n10:45am-12pm: 18 lanes (Competition 10\, Dive Well 8\, Teaching 0)\n12pm-12:15pm: 13 lanes (Competition 5\, Dive Well 8\, Teaching 0)\n12:15pm-12:45pm: 19 lanes (Competition 5\, Dive Well 8\, Teaching 6)\n12:45pm-1:15pm: 13 lanes (Competition 5\, Dive Well 8\, Teaching 0)\n1:15pm-3pm: 18 lanes (Competition 10\, Dive Well 8\, Teaching 0)\n3pm-3:15pm: 10 lanes (Competition 10\, Dive Well 0\, Teaching 0)\n3:15pm-4:30pm: 16 lanes (Competition 10\, Dive Well 0\, Teaching 6)\n4:30pm-5:30pm: 6 lanes (Competition 0\, Dive Well 0\, Teaching 6)\n5:30pm-7pm: 4 lanes (Competition 0\, Dive Well 0\, Teaching 4)\n7pm-7:15pm: 8 lanes (Competition 0\, Dive Well 4\, Teaching 4)\n7:15pm-7:30pm: 9 lanes (Competition 5\, Dive Well 0\, Teaching 4)\n7:30pm-8:15pm: 11 lanes (Competition 5\, Dive Well 0\, Teaching 6)\n8:15pm-8:30pm: 5 lanes (Competition 5\, Dive Well 0\, Teaching 0)\n8:30pm-9pm: 13 lanes (Competition 5\, Dive Well 8\, Teaching 0)\n9pm-9:15pm: 5 lanes (Competition 5\, Dive Well 0\, Teaching 0)\n9:15pm-11pm: 10 lanes (Competition 10\, Dive Well 0\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
+DESCRIPTION:Open Rec Swim lanes:\n6am-6:15am: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n6:15am-7:30am: 20 lanes (Competition 6\, Dive Well 8\, Teaching 6)\n7:30am-7:45am: 16 lanes (Competition 2\, Dive Well 8\, Teaching 6)\n7:45am-9am: 8 lanes (Competition 2\, Dive Well 0\, Teaching 6)\n9am-10:15am: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n10:15am-10:45am: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n10:45am-12pm: 20 lanes (Competition 12\, Dive Well 8\, Teaching 0)\n12pm-12:15pm: 15 lanes (Competition 7\, Dive Well 8\, Teaching 0)\n12:15pm-12:45pm: 21 lanes (Competition 7\, Dive Well 8\, Teaching 6)\n12:45pm-1:15pm: 15 lanes (Competition 7\, Dive Well 8\, Teaching 0)\n1:15pm-3pm: 20 lanes (Competition 12\, Dive Well 8\, Teaching 0)\n3pm-3:15pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n3:15pm-4:30pm: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n4:30pm-5:30pm: 6 lanes (Competition 0\, Dive Well 0\, Teaching 6)\n5:30pm-7pm: 4 lanes (Competition 0\, Dive Well 0\, Teaching 4)\n7pm-7:15pm: 8 lanes (Competition 0\, Dive Well 4\, Teaching 4)\n7:15pm-7:30pm: 11 lanes (Competition 7\, Dive Well 0\, Teaching 4)\n7:30pm-8:15pm: 13 lanes (Competition 7\, Dive Well 0\, Teaching 6)\n8:15pm-8:30pm: 7 lanes (Competition 7\, Dive Well 0\, Teaching 0)\n8:30pm-9pm: 15 lanes (Competition 7\, Dive Well 8\, Teaching 0)\n9pm-9:15pm: 7 lanes (Competition 7\, Dive Well 0\, Teaching 0)\n9:15pm-11pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mit-20261022-zcenter-360@harvard-pool-calendar
-DTSTAMP:20261010T191626Z
+DTSTAMP:20261013T191610Z
 DTSTART;TZID=America/New_York:20261022T060000
 DTEND;TZID=America/New_York:20261022T230000
-SUMMARY:MIT Z Center rec swim (4-24 lanes)
+SUMMARY:MIT Z Center rec swim (4-26 lanes)
 LOCATION:MIT Zesiger Center\, 120 Vassar St\, Cambridge\, MA
-DESCRIPTION:Open Rec Swim lanes:\n6am-6:15am: 24 lanes (Competition 10\, Dive Well 8\, Teaching 6)\n6:15am-7:30am: 18 lanes (Competition 4\, Dive Well 8\, Teaching 6)\n7:30am-8am: 24 lanes (Competition 10\, Dive Well 8\, Teaching 6)\n8am-10:45am: 16 lanes (Competition 10\, Dive Well 0\, Teaching 6)\n10:45am-12:15pm: 10 lanes (Competition 10\, Dive Well 0\, Teaching 0)\n12:15pm-12:45pm: 16 lanes (Competition 10\, Dive Well 0\, Teaching 6)\n12:45pm-3pm: 10 lanes (Competition 10\, Dive Well 0\, Teaching 0)\n3pm-3:15pm: 6 lanes (Competition 6\, Dive Well 0\, Teaching 0)\n3:15pm-4:30pm: 12 lanes (Competition 6\, Dive Well 0\, Teaching 6)\n4:30pm-5:30pm: 6 lanes (Competition 0\, Dive Well 0\, Teaching 6)\n5:30pm-7pm: 4 lanes (Competition 0\, Dive Well 0\, Teaching 4)\n7pm-7:15pm: 8 lanes (Competition 0\, Dive Well 4\, Teaching 4)\n7:15pm-7:30pm: 11 lanes (Competition 7\, Dive Well 0\, Teaching 4)\n7:30pm-8:15pm: 13 lanes (Competition 7\, Dive Well 0\, Teaching 6)\n8:15pm-8:30pm: 7 lanes (Competition 7\, Dive Well 0\, Teaching 0)\n8:30pm-9pm: 11 lanes (Competition 7\, Dive Well 4\, Teaching 0)\n9pm-9:30pm: 6 lanes (Competition 6\, Dive Well 0\, Teaching 0)\n9:30pm-10:30pm: 10 lanes (Competition 6\, Dive Well 4\, Teaching 0)\n10:30pm-11pm: 14 lanes (Competition 10\, Dive Well 4\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
+DESCRIPTION:Open Rec Swim lanes:\n6am-6:15am: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n6:15am-7:30am: 20 lanes (Competition 6\, Dive Well 8\, Teaching 6)\n7:30am-8am: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n8am-10:45am: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n10:45am-12:15pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n12:15pm-12:45pm: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n12:45pm-3pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n3pm-3:15pm: 8 lanes (Competition 8\, Dive Well 0\, Teaching 0)\n3:15pm-4:30pm: 14 lanes (Competition 8\, Dive Well 0\, Teaching 6)\n4:30pm-5:30pm: 6 lanes (Competition 0\, Dive Well 0\, Teaching 6)\n5:30pm-7pm: 4 lanes (Competition 0\, Dive Well 0\, Teaching 4)\n7pm-7:15pm: 8 lanes (Competition 0\, Dive Well 4\, Teaching 4)\n7:15pm-7:30pm: 13 lanes (Competition 9\, Dive Well 0\, Teaching 4)\n7:30pm-8:15pm: 15 lanes (Competition 9\, Dive Well 0\, Teaching 6)\n8:15pm-8:30pm: 9 lanes (Competition 9\, Dive Well 0\, Teaching 0)\n8:30pm-9pm: 13 lanes (Competition 9\, Dive Well 4\, Teaching 0)\n9pm-9:30pm: 8 lanes (Competition 8\, Dive Well 0\, Teaching 0)\n9:30pm-10:30pm: 12 lanes (Competition 8\, Dive Well 4\, Teaching 0)\n10:30pm-11pm: 16 lanes (Competition 12\, Dive Well 4\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mit-20261023-zcenter-360@harvard-pool-calendar
-DTSTAMP:20261010T191626Z
+DTSTAMP:20261013T191610Z
 DTSTART;TZID=America/New_York:20261023T060000
 DTEND;TZID=America/New_York:20261023T210000
-SUMMARY:MIT Z Center rec swim (4-24 lanes)
+SUMMARY:MIT Z Center rec swim (4-26 lanes)
 LOCATION:MIT Zesiger Center\, 120 Vassar St\, Cambridge\, MA
-DESCRIPTION:Open Rec Swim lanes:\n6am-6:15am: 24 lanes (Competition 10\, Dive Well 8\, Teaching 6)\n6:15am-7:30am: 18 lanes (Competition 4\, Dive Well 8\, Teaching 6)\n7:30am-7:45am: 24 lanes (Competition 10\, Dive Well 8\, Teaching 6)\n7:45am-10:15am: 16 lanes (Competition 10\, Dive Well 0\, Teaching 6)\n10:15am-12pm: 24 lanes (Competition 10\, Dive Well 8\, Teaching 6)\n12pm-1:15pm: 19 lanes (Competition 5\, Dive Well 8\, Teaching 6)\n1:15pm-2:30pm: 24 lanes (Competition 10\, Dive Well 8\, Teaching 6)\n2:30pm-4:30pm: 14 lanes (Competition 0\, Dive Well 8\, Teaching 6)\n4:30pm-5:30pm: 6 lanes (Competition 0\, Dive Well 0\, Teaching 6)\n5:30pm-7:30pm: 4 lanes (Competition 0\, Dive Well 0\, Teaching 4)\n7:30pm-9pm: 6 lanes (Competition 0\, Dive Well 0\, Teaching 6)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
+DESCRIPTION:Open Rec Swim lanes:\n6am-6:15am: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n6:15am-7:30am: 20 lanes (Competition 6\, Dive Well 8\, Teaching 6)\n7:30am-7:45am: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n7:45am-10:15am: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n10:15am-12pm: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n12pm-1:15pm: 21 lanes (Competition 7\, Dive Well 8\, Teaching 6)\n1:15pm-2:30pm: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n2:30pm-4:30pm: 14 lanes (Competition 0\, Dive Well 8\, Teaching 6)\n4:30pm-5:30pm: 6 lanes (Competition 0\, Dive Well 0\, Teaching 6)\n5:30pm-7:30pm: 4 lanes (Competition 0\, Dive Well 0\, Teaching 4)\n7:30pm-9pm: 6 lanes (Competition 0\, Dive Well 0\, Teaching 6)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mit-20261024-zcenter-420@harvard-pool-calendar
-DTSTAMP:20261010T191626Z
+DTSTAMP:20261013T191610Z
 DTSTART;TZID=America/New_York:20261024T070000
 DTEND;TZID=America/New_York:20261024T210000
-SUMMARY:MIT Z Center rec swim (7-24 lanes)
+SUMMARY:MIT Z Center rec swim (8-26 lanes)
 LOCATION:MIT Zesiger Center\, 120 Vassar St\, Cambridge\, MA
-DESCRIPTION:Open Rec Swim lanes:\n7am-8:30am: 24 lanes (Competition 10\, Dive Well 8\, Teaching 6)\n8:30am-11am: 8 lanes (Competition 0\, Dive Well 8\, Teaching 0)\n11am-12:30pm: 7 lanes (Competition 0\, Dive Well 7\, Teaching 0)\n12:30pm-1:30pm: 17 lanes (Competition 10\, Dive Well 7\, Teaching 0)\n1:30pm-4pm: 22 lanes (Competition 10\, Dive Well 8\, Teaching 4)\n4pm-6pm: 17 lanes (Competition 5\, Dive Well 8\, Teaching 4)\n6pm-9pm: 24 lanes (Competition 10\, Dive Well 8\, Teaching 6)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
+DESCRIPTION:Open Rec Swim lanes:\n7am-8:30am: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n8:30am-12:30pm: 8 lanes (Competition 0\, Dive Well 8\, Teaching 0)\n12:30pm-1:30pm: 20 lanes (Competition 12\, Dive Well 8\, Teaching 0)\n1:30pm-4pm: 16 lanes (Competition 12\, Dive Well 0\, Teaching 4)\n4pm-6pm: 11 lanes (Competition 7\, Dive Well 0\, Teaching 4)\n6pm-9pm: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mit-20261025-zcenter-540@harvard-pool-calendar
-DTSTAMP:20261010T191626Z
+DTSTAMP:20261013T191610Z
 DTSTART;TZID=America/New_York:20261025T090000
 DTEND;TZID=America/New_York:20261025T230000
-SUMMARY:MIT Z Center rec swim (5-24 lanes)
+SUMMARY:MIT Z Center rec swim (7-18 lanes)
 LOCATION:MIT Zesiger Center\, 120 Vassar St\, Cambridge\, MA
-DESCRIPTION:Open Rec Swim lanes:\n9am-10am: 10 lanes (Competition 10\, Dive Well 0\, Teaching 0)\n10am-10:30am: 5 lanes (Competition 5\, Dive Well 0\, Teaching 0)\n10:30am-11:15am: 8 lanes (Competition 5\, Dive Well 3\, Teaching 0)\n11:15am-1pm: 13 lanes (Competition 10\, Dive Well 3\, Teaching 0)\n1pm-2:30pm: 9 lanes (Competition 6\, Dive Well 3\, Teaching 0)\n2:30pm-4pm: 14 lanes (Competition 6\, Dive Well 8\, Teaching 0)\n4pm-5:30pm: 18 lanes (Competition 10\, Dive Well 8\, Teaching 0)\n5:30pm-9pm: 24 lanes (Competition 10\, Dive Well 8\, Teaching 6)\n9pm-11pm: 10 lanes (Competition 10\, Dive Well 0\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
+DESCRIPTION:Open Rec Swim lanes:\n9am-10am: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n10am-10:30am: 7 lanes (Competition 7\, Dive Well 0\, Teaching 0)\n10:30am-11:15am: 10 lanes (Competition 7\, Dive Well 3\, Teaching 0)\n11:15am-1pm: 15 lanes (Competition 12\, Dive Well 3\, Teaching 0)\n1pm-2:30pm: 11 lanes (Competition 8\, Dive Well 3\, Teaching 0)\n2:30pm-4pm: 8 lanes (Competition 8\, Dive Well 0\, Teaching 0)\n4pm-5:30pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n5:30pm-9pm: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n9pm-11pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mit-20261026-zcenter-360@harvard-pool-calendar
-DTSTAMP:20261010T191626Z
+DTSTAMP:20261013T191610Z
 DTSTART;TZID=America/New_York:20261026T060000
 DTEND;TZID=America/New_York:20261026T230000
-SUMMARY:MIT Z Center rec swim (6-25 lanes)
+SUMMARY:MIT Z Center rec swim (6-26 lanes)
 LOCATION:MIT Zesiger Center\, 120 Vassar St\, Cambridge\, MA
-DESCRIPTION:Open Rec Swim lanes:\n6am-6:15am: 25 lanes (Competition 12\, Dive Well 7\, Teaching 6)\n6:15am-7:30am: 19 lanes (Competition 6\, Dive Well 7\, Teaching 6)\n7:30am-7:45am: 16 lanes (Competition 6\, Dive Well 4\, Teaching 6)\n7:45am-9am: 12 lanes (Competition 6\, Dive Well 0\, Teaching 6)\n9am-10am: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n10am-10:15am: 21 lanes (Competition 12\, Dive Well 3\, Teaching 6)\n10:15am-10:45am: 25 lanes (Competition 12\, Dive Well 7\, Teaching 6)\n10:45am-12pm: 19 lanes (Competition 12\, Dive Well 7\, Teaching 0)\n12pm-12:15pm: 14 lanes (Competition 7\, Dive Well 7\, Teaching 0)\n12:15pm-12:45pm: 20 lanes (Competition 7\, Dive Well 7\, Teaching 6)\n12:45pm-1:15pm: 14 lanes (Competition 7\, Dive Well 7\, Teaching 0)\n1:15pm-3:15pm: 19 lanes (Competition 12\, Dive Well 7\, Teaching 0)\n3:15pm-4pm: 25 lanes (Competition 12\, Dive Well 7\, Teaching 6)\n4pm-5pm: 23 lanes (Competition 10\, Dive Well 7\, Teaching 6)\n5pm-5:30pm: 8 lanes (Competition 2\, Dive Well 0\, Teaching 6)\n5:30pm-7pm: 6 lanes (Competition 2\, Dive Well 0\, Teaching 4)\n7pm-7:15pm: 19 lanes (Competition 12\, Dive Well 3\, Teaching 4)\n7:15pm-7:30pm: 13 lanes (Competition 9\, Dive Well 0\, Teaching 4)\n7:30pm-9pm: 15 lanes (Competition 9\, Dive Well 0\, Teaching 6)\n9pm-11pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
+DESCRIPTION:Open Rec Swim lanes:\n6am-6:15am: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n6:15am-7:30am: 20 lanes (Competition 6\, Dive Well 8\, Teaching 6)\n7:30am-7:45am: 16 lanes (Competition 6\, Dive Well 4\, Teaching 6)\n7:45am-9am: 12 lanes (Competition 6\, Dive Well 0\, Teaching 6)\n9am-10am: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n10am-10:15am: 22 lanes (Competition 12\, Dive Well 4\, Teaching 6)\n10:15am-10:45am: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n10:45am-12pm: 20 lanes (Competition 12\, Dive Well 8\, Teaching 0)\n12pm-12:15pm: 15 lanes (Competition 7\, Dive Well 8\, Teaching 0)\n12:15pm-12:45pm: 21 lanes (Competition 7\, Dive Well 8\, Teaching 6)\n12:45pm-1:15pm: 15 lanes (Competition 7\, Dive Well 8\, Teaching 0)\n1:15pm-3:15pm: 20 lanes (Competition 12\, Dive Well 8\, Teaching 0)\n3:15pm-4pm: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n4pm-5pm: 24 lanes (Competition 10\, Dive Well 8\, Teaching 6)\n5pm-5:30pm: 8 lanes (Competition 2\, Dive Well 0\, Teaching 6)\n5:30pm-7pm: 6 lanes (Competition 2\, Dive Well 0\, Teaching 4)\n7pm-7:15pm: 20 lanes (Competition 12\, Dive Well 4\, Teaching 4)\n7:15pm-7:30pm: 13 lanes (Competition 9\, Dive Well 0\, Teaching 4)\n7:30pm-9pm: 15 lanes (Competition 9\, Dive Well 0\, Teaching 6)\n9pm-11pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mit-20261027-zcenter-360@harvard-pool-calendar
-DTSTAMP:20261010T191626Z
+DTSTAMP:20261013T191610Z
 DTSTART;TZID=America/New_York:20261027T060000
 DTEND;TZID=America/New_York:20261027T230000
-SUMMARY:MIT Z Center rec swim (4-25 lanes)
+SUMMARY:MIT Z Center rec swim (4-26 lanes)
 LOCATION:MIT Zesiger Center\, 120 Vassar St\, Cambridge\, MA
-DESCRIPTION:Open Rec Swim lanes:\n6am-6:15am: 25 lanes (Competition 12\, Dive Well 7\, Teaching 6)\n6:15am-7:30am: 19 lanes (Competition 6\, Dive Well 7\, Teaching 6)\n7:30am-8am: 25 lanes (Competition 12\, Dive Well 7\, Teaching 6)\n8am-10:45am: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n10:45am-3:15pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n3:15pm-4pm: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n4pm-4:30pm: 16 lanes (Competition 10\, Dive Well 0\, Teaching 6)\n4:30pm-4:45pm: 4 lanes (Competition 0\, Dive Well 0\, Teaching 4)\n4:45pm-5:30pm: 6 lanes (Competition 0\, Dive Well 0\, Teaching 6)\n5:30pm-7pm: 4 lanes (Competition 0\, Dive Well 0\, Teaching 4)\n7pm-7:15pm: 7 lanes (Competition 0\, Dive Well 3\, Teaching 4)\n7:15pm-7:30pm: 11 lanes (Competition 7\, Dive Well 0\, Teaching 4)\n7:30pm-8:15pm: 13 lanes (Competition 7\, Dive Well 0\, Teaching 6)\n8:15pm-9pm: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n9pm-9:30pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n9:30pm-11pm: 16 lanes (Competition 12\, Dive Well 4\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
+DESCRIPTION:Open Rec Swim lanes:\n6am-6:15am: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n6:15am-7:30am: 20 lanes (Competition 6\, Dive Well 8\, Teaching 6)\n7:30am-8am: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n8am-10:45am: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n10:45am-3:15pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n3:15pm-4pm: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n4pm-4:30pm: 16 lanes (Competition 10\, Dive Well 0\, Teaching 6)\n4:30pm-4:45pm: 4 lanes (Competition 0\, Dive Well 0\, Teaching 4)\n4:45pm-5:30pm: 6 lanes (Competition 0\, Dive Well 0\, Teaching 6)\n5:30pm-7pm: 4 lanes (Competition 0\, Dive Well 0\, Teaching 4)\n7pm-7:15pm: 8 lanes (Competition 0\, Dive Well 4\, Teaching 4)\n7:15pm-7:30pm: 11 lanes (Competition 7\, Dive Well 0\, Teaching 4)\n7:30pm-8:15pm: 13 lanes (Competition 7\, Dive Well 0\, Teaching 6)\n8:15pm-9pm: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n9pm-9:30pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n9:30pm-11pm: 16 lanes (Competition 12\, Dive Well 4\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mit-20261028-zcenter-360@harvard-pool-calendar
-DTSTAMP:20261010T191626Z
+DTSTAMP:20261013T191610Z
 DTSTART;TZID=America/New_York:20261028T060000
 DTEND;TZID=America/New_York:20261028T230000
-SUMMARY:MIT Z Center rec swim (4-25 lanes)
+SUMMARY:MIT Z Center rec swim (4-26 lanes)
 LOCATION:MIT Zesiger Center\, 120 Vassar St\, Cambridge\, MA
-DESCRIPTION:Open Rec Swim lanes:\n6am-6:15am: 25 lanes (Competition 12\, Dive Well 7\, Teaching 6)\n6:15am-7:30am: 19 lanes (Competition 6\, Dive Well 7\, Teaching 6)\n7:30am-7:45am: 15 lanes (Competition 2\, Dive Well 7\, Teaching 6)\n7:45am-9am: 8 lanes (Competition 2\, Dive Well 0\, Teaching 6)\n9am-10:15am: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n10:15am-10:45am: 25 lanes (Competition 12\, Dive Well 7\, Teaching 6)\n10:45am-12pm: 19 lanes (Competition 12\, Dive Well 7\, Teaching 0)\n12pm-12:15pm: 14 lanes (Competition 7\, Dive Well 7\, Teaching 0)\n12:15pm-12:45pm: 20 lanes (Competition 7\, Dive Well 7\, Teaching 6)\n12:45pm-1:15pm: 14 lanes (Competition 7\, Dive Well 7\, Teaching 0)\n1:15pm-3pm: 19 lanes (Competition 12\, Dive Well 7\, Teaching 0)\n3pm-3:15pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n3:15pm-4:30pm: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n4:30pm-5:30pm: 6 lanes (Competition 0\, Dive Well 0\, Teaching 6)\n5:30pm-7pm: 4 lanes (Competition 0\, Dive Well 0\, Teaching 4)\n7pm-7:15pm: 7 lanes (Competition 0\, Dive Well 3\, Teaching 4)\n7:15pm-7:30pm: 11 lanes (Competition 7\, Dive Well 0\, Teaching 4)\n7:30pm-8:15pm: 13 lanes (Competition 7\, Dive Well 0\, Teaching 6)\n8:15pm-8:30pm: 7 lanes (Competition 7\, Dive Well 0\, Teaching 0)\n8:30pm-9pm: 14 lanes (Competition 7\, Dive Well 7\, Teaching 0)\n9pm-9:15pm: 7 lanes (Competition 7\, Dive Well 0\, Teaching 0)\n9:15pm-11pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
+DESCRIPTION:Open Rec Swim lanes:\n6am-6:15am: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n6:15am-7:30am: 20 lanes (Competition 6\, Dive Well 8\, Teaching 6)\n7:30am-7:45am: 16 lanes (Competition 2\, Dive Well 8\, Teaching 6)\n7:45am-9am: 8 lanes (Competition 2\, Dive Well 0\, Teaching 6)\n9am-10:15am: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n10:15am-10:45am: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n10:45am-12pm: 20 lanes (Competition 12\, Dive Well 8\, Teaching 0)\n12pm-12:15pm: 15 lanes (Competition 7\, Dive Well 8\, Teaching 0)\n12:15pm-12:45pm: 21 lanes (Competition 7\, Dive Well 8\, Teaching 6)\n12:45pm-1:15pm: 15 lanes (Competition 7\, Dive Well 8\, Teaching 0)\n1:15pm-3pm: 20 lanes (Competition 12\, Dive Well 8\, Teaching 0)\n3pm-3:15pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n3:15pm-4:30pm: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n4:30pm-5:30pm: 6 lanes (Competition 0\, Dive Well 0\, Teaching 6)\n5:30pm-7pm: 4 lanes (Competition 0\, Dive Well 0\, Teaching 4)\n7pm-7:15pm: 8 lanes (Competition 0\, Dive Well 4\, Teaching 4)\n7:15pm-7:30pm: 11 lanes (Competition 7\, Dive Well 0\, Teaching 4)\n7:30pm-8:15pm: 13 lanes (Competition 7\, Dive Well 0\, Teaching 6)\n8:15pm-8:30pm: 7 lanes (Competition 7\, Dive Well 0\, Teaching 0)\n8:30pm-9pm: 15 lanes (Competition 7\, Dive Well 8\, Teaching 0)\n9pm-9:15pm: 7 lanes (Competition 7\, Dive Well 0\, Teaching 0)\n9:15pm-11pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mit-20261029-zcenter-360@harvard-pool-calendar
-DTSTAMP:20261010T191626Z
+DTSTAMP:20261013T191610Z
 DTSTART;TZID=America/New_York:20261029T060000
 DTEND;TZID=America/New_York:20261029T230000
-SUMMARY:MIT Z Center rec swim (4-25 lanes)
+SUMMARY:MIT Z Center rec swim (4-26 lanes)
 LOCATION:MIT Zesiger Center\, 120 Vassar St\, Cambridge\, MA
-DESCRIPTION:Open Rec Swim lanes:\n6am-6:15am: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n6:15am-7am: 12 lanes (Competition 6\, Dive Well 0\, Teaching 6)\n7am-7:30am: 19 lanes (Competition 6\, Dive Well 7\, Teaching 6)\n7:30am-8am: 25 lanes (Competition 12\, Dive Well 7\, Teaching 6)\n8am-10:45am: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n10:45am-3pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n3pm-3:15pm: 8 lanes (Competition 8\, Dive Well 0\, Teaching 0)\n3:15pm-4:30pm: 14 lanes (Competition 8\, Dive Well 0\, Teaching 6)\n4:30pm-5:30pm: 6 lanes (Competition 0\, Dive Well 0\, Teaching 6)\n5:30pm-7pm: 4 lanes (Competition 0\, Dive Well 0\, Teaching 4)\n7pm-7:15pm: 7 lanes (Competition 0\, Dive Well 3\, Teaching 4)\n7:15pm-7:30pm: 13 lanes (Competition 9\, Dive Well 0\, Teaching 4)\n7:30pm-8:15pm: 15 lanes (Competition 9\, Dive Well 0\, Teaching 6)\n8:15pm-9pm: 9 lanes (Competition 9\, Dive Well 0\, Teaching 0)\n9pm-9:30pm: 8 lanes (Competition 8\, Dive Well 0\, Teaching 0)\n9:30pm-10:30pm: 12 lanes (Competition 8\, Dive Well 4\, Teaching 0)\n10:30pm-11pm: 16 lanes (Competition 12\, Dive Well 4\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
+DESCRIPTION:Open Rec Swim lanes:\n6am-6:15am: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n6:15am-7am: 12 lanes (Competition 6\, Dive Well 0\, Teaching 6)\n7am-7:30am: 20 lanes (Competition 6\, Dive Well 8\, Teaching 6)\n7:30am-8am: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n8am-10:45am: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n10:45am-3pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n3pm-3:15pm: 8 lanes (Competition 8\, Dive Well 0\, Teaching 0)\n3:15pm-4:30pm: 14 lanes (Competition 8\, Dive Well 0\, Teaching 6)\n4:30pm-5:30pm: 6 lanes (Competition 0\, Dive Well 0\, Teaching 6)\n5:30pm-7pm: 4 lanes (Competition 0\, Dive Well 0\, Teaching 4)\n7pm-7:15pm: 8 lanes (Competition 0\, Dive Well 4\, Teaching 4)\n7:15pm-7:30pm: 13 lanes (Competition 9\, Dive Well 0\, Teaching 4)\n7:30pm-8:15pm: 15 lanes (Competition 9\, Dive Well 0\, Teaching 6)\n8:15pm-9pm: 9 lanes (Competition 9\, Dive Well 0\, Teaching 0)\n9pm-9:30pm: 8 lanes (Competition 8\, Dive Well 0\, Teaching 0)\n9:30pm-10:30pm: 12 lanes (Competition 8\, Dive Well 4\, Teaching 0)\n10:30pm-11pm: 16 lanes (Competition 12\, Dive Well 4\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mit-20261030-zcenter-360@harvard-pool-calendar
-DTSTAMP:20261010T191626Z
+DTSTAMP:20261013T191610Z
 DTSTART;TZID=America/New_York:20261030T060000
 DTEND;TZID=America/New_York:20261030T230000
-SUMMARY:MIT Z Center rec swim (6-25 lanes)
+SUMMARY:MIT Z Center rec swim (6-26 lanes)
 LOCATION:MIT Zesiger Center\, 120 Vassar St\, Cambridge\, MA
-DESCRIPTION:Open Rec Swim lanes:\n6am-6:15am: 25 lanes (Competition 12\, Dive Well 7\, Teaching 6)\n6:15am-7:30am: 19 lanes (Competition 6\, Dive Well 7\, Teaching 6)\n7:30am-7:45am: 25 lanes (Competition 12\, Dive Well 7\, Teaching 6)\n7:45am-10:15am: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n10:15am-12pm: 25 lanes (Competition 12\, Dive Well 7\, Teaching 6)\n12pm-1:15pm: 20 lanes (Competition 7\, Dive Well 7\, Teaching 6)\n1:15pm-2:30pm: 25 lanes (Competition 12\, Dive Well 7\, Teaching 6)\n2:30pm-5pm: 13 lanes (Competition 0\, Dive Well 7\, Teaching 6)\n5pm-5:30pm: 8 lanes (Competition 2\, Dive Well 0\, Teaching 6)\n5:30pm-7pm: 6 lanes (Competition 2\, Dive Well 0\, Teaching 4)\n7pm-7:15pm: 19 lanes (Competition 12\, Dive Well 3\, Teaching 4)\n7:15pm-7:30pm: 16 lanes (Competition 12\, Dive Well 0\, Teaching 4)\n7:30pm-9pm: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n9pm-11pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
+DESCRIPTION:Open Rec Swim lanes:\n6am-6:15am: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n6:15am-7:30am: 20 lanes (Competition 6\, Dive Well 8\, Teaching 6)\n7:30am-7:45am: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n7:45am-10:15am: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n10:15am-12pm: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n12pm-1:15pm: 21 lanes (Competition 7\, Dive Well 8\, Teaching 6)\n1:15pm-2:30pm: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n2:30pm-5pm: 14 lanes (Competition 0\, Dive Well 8\, Teaching 6)\n5pm-5:30pm: 8 lanes (Competition 2\, Dive Well 0\, Teaching 6)\n5:30pm-7pm: 6 lanes (Competition 2\, Dive Well 0\, Teaching 4)\n7pm-7:15pm: 20 lanes (Competition 12\, Dive Well 4\, Teaching 4)\n7:15pm-7:30pm: 16 lanes (Competition 12\, Dive Well 0\, Teaching 4)\n7:30pm-9pm: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n9pm-11pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mit-20261031-zcenter-420@harvard-pool-calendar
-DTSTAMP:20261010T191626Z
+DTSTAMP:20261013T191610Z
 DTSTART;TZID=America/New_York:20261031T070000
 DTEND;TZID=America/New_York:20261031T090000
-SUMMARY:MIT Z Center rec swim (19-25 lanes)
+SUMMARY:MIT Z Center rec swim (20-26 lanes)
 LOCATION:MIT Zesiger Center\, 120 Vassar St\, Cambridge\, MA
-DESCRIPTION:Open Rec Swim lanes:\n7am-8:30am: 25 lanes (Competition 12\, Dive Well 7\, Teaching 6)\n8:30am-9am: 19 lanes (Competition 12\, Dive Well 7\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
+DESCRIPTION:Open Rec Swim lanes:\n7am-8:30am: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n8:30am-9am: 20 lanes (Competition 12\, Dive Well 8\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mit-20261031-zcenter-810@harvard-pool-calendar
-DTSTAMP:20261010T191626Z
+DTSTAMP:20261013T191610Z
 DTSTART;TZID=America/New_York:20261031T133000
 DTEND;TZID=America/New_York:20261031T210000
-SUMMARY:MIT Z Center rec swim (4-25 lanes)
+SUMMARY:MIT Z Center rec swim (4-26 lanes)
 LOCATION:MIT Zesiger Center\, 120 Vassar St\, Cambridge\, MA
-DESCRIPTION:Open Rec Swim lanes:\n1:30pm-3pm: 4 lanes (Competition 0\, Dive Well 0\, Teaching 4)\n3pm-3:45pm: 23 lanes (Competition 12\, Dive Well 7\, Teaching 4)\n3:45pm-4pm: 19 lanes (Competition 12\, Dive Well 3\, Teaching 4)\n4pm-5:30pm: 14 lanes (Competition 7\, Dive Well 3\, Teaching 4)\n5:30pm-6pm: 18 lanes (Competition 7\, Dive Well 7\, Teaching 4)\n6pm-9pm: 25 lanes (Competition 12\, Dive Well 7\, Teaching 6)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
+DESCRIPTION:Open Rec Swim lanes:\n1:30pm-3pm: 4 lanes (Competition 0\, Dive Well 0\, Teaching 4)\n3pm-3:45pm: 24 lanes (Competition 12\, Dive Well 8\, Teaching 4)\n3:45pm-4pm: 20 lanes (Competition 12\, Dive Well 4\, Teaching 4)\n4pm-5:30pm: 15 lanes (Competition 7\, Dive Well 4\, Teaching 4)\n5:30pm-6pm: 19 lanes (Competition 7\, Dive Well 8\, Teaching 4)\n6pm-9pm: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mit-20261101-zcenter-540@harvard-pool-calendar
-DTSTAMP:20261010T191626Z
+DTSTAMP:20261013T191610Z
 DTSTART;TZID=America/New_York:20261101T090000
 DTEND;TZID=America/New_York:20261101T230000
-SUMMARY:MIT Z Center rec swim (7-25 lanes)
+SUMMARY:MIT Z Center rec swim (7-26 lanes)
 LOCATION:MIT Zesiger Center\, 120 Vassar St\, Cambridge\, MA
-DESCRIPTION:Open Rec Swim lanes:\n9am-10am: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n10am-10:30am: 7 lanes (Competition 7\, Dive Well 0\, Teaching 0)\n10:30am-11:15am: 10 lanes (Competition 7\, Dive Well 3\, Teaching 0)\n11:15am-2:30pm: 15 lanes (Competition 12\, Dive Well 3\, Teaching 0)\n2:30pm-3pm: 25 lanes (Competition 12\, Dive Well 7\, Teaching 6)\n3pm-9pm: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n9pm-11pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
+DESCRIPTION:Open Rec Swim lanes:\n9am-10am: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n10am-10:30am: 7 lanes (Competition 7\, Dive Well 0\, Teaching 0)\n10:30am-11:15am: 10 lanes (Competition 7\, Dive Well 3\, Teaching 0)\n11:15am-2:30pm: 15 lanes (Competition 12\, Dive Well 3\, Teaching 0)\n2:30pm-3pm: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n3pm-9pm: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n9pm-11pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mit-20261102-zcenter-360@harvard-pool-calendar
+DTSTAMP:20261013T191610Z
+DTSTART;TZID=America/New_York:20261102T060000
+DTEND;TZID=America/New_York:20261102T230000
+SUMMARY:MIT Z Center rec swim (6-26 lanes)
+LOCATION:MIT Zesiger Center\, 120 Vassar St\, Cambridge\, MA
+DESCRIPTION:Open Rec Swim lanes:\n6am-6:15am: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n6:15am-7:30am: 20 lanes (Competition 6\, Dive Well 8\, Teaching 6)\n7:30am-7:45am: 16 lanes (Competition 6\, Dive Well 4\, Teaching 6)\n7:45am-9am: 12 lanes (Competition 6\, Dive Well 0\, Teaching 6)\n9am-10am: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n10am-10:15am: 22 lanes (Competition 12\, Dive Well 4\, Teaching 6)\n10:15am-10:45am: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n10:45am-12pm: 20 lanes (Competition 12\, Dive Well 8\, Teaching 0)\n12pm-12:15pm: 15 lanes (Competition 7\, Dive Well 8\, Teaching 0)\n12:15pm-12:45pm: 21 lanes (Competition 7\, Dive Well 8\, Teaching 6)\n12:45pm-1:15pm: 15 lanes (Competition 7\, Dive Well 8\, Teaching 0)\n1:15pm-3:15pm: 20 lanes (Competition 12\, Dive Well 8\, Teaching 0)\n3:15pm-4pm: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n4pm-5pm: 24 lanes (Competition 10\, Dive Well 8\, Teaching 6)\n5pm-5:30pm: 8 lanes (Competition 2\, Dive Well 0\, Teaching 6)\n5:30pm-7pm: 6 lanes (Competition 2\, Dive Well 0\, Teaching 4)\n7pm-7:15pm: 15 lanes (Competition 7\, Dive Well 4\, Teaching 4)\n7:15pm-7:30pm: 11 lanes (Competition 7\, Dive Well 0\, Teaching 4)\n7:30pm-9pm: 13 lanes (Competition 7\, Dive Well 0\, Teaching 6)\n9pm-11pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mit-20261103-zcenter-360@harvard-pool-calendar
+DTSTAMP:20261013T191610Z
+DTSTART;TZID=America/New_York:20261103T060000
+DTEND;TZID=America/New_York:20261103T230000
+SUMMARY:MIT Z Center rec swim (4-26 lanes)
+LOCATION:MIT Zesiger Center\, 120 Vassar St\, Cambridge\, MA
+DESCRIPTION:Open Rec Swim lanes:\n6am-6:15am: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n6:15am-7am: 12 lanes (Competition 6\, Dive Well 0\, Teaching 6)\n7am-7:30am: 20 lanes (Competition 6\, Dive Well 8\, Teaching 6)\n7:30am-8am: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n8am-10:45am: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n10:45am-3:15pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n3:15pm-4pm: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n4pm-4:30pm: 16 lanes (Competition 10\, Dive Well 0\, Teaching 6)\n4:30pm-4:45pm: 4 lanes (Competition 0\, Dive Well 0\, Teaching 4)\n4:45pm-5:30pm: 6 lanes (Competition 0\, Dive Well 0\, Teaching 6)\n5:30pm-7pm: 4 lanes (Competition 0\, Dive Well 0\, Teaching 4)\n7pm-7:15pm: 8 lanes (Competition 0\, Dive Well 4\, Teaching 4)\n7:15pm-7:30pm: 11 lanes (Competition 7\, Dive Well 0\, Teaching 4)\n7:30pm-8:15pm: 13 lanes (Competition 7\, Dive Well 0\, Teaching 6)\n8:15pm-8:30pm: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n8:30pm-9pm: 22 lanes (Competition 12\, Dive Well 4\, Teaching 6)\n9pm-9:30pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n9:30pm-11pm: 16 lanes (Competition 12\, Dive Well 4\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mit-20261104-zcenter-360@harvard-pool-calendar
+DTSTAMP:20261013T191610Z
+DTSTART;TZID=America/New_York:20261104T060000
+DTEND;TZID=America/New_York:20261104T230000
+SUMMARY:MIT Z Center rec swim (5-26 lanes)
+LOCATION:MIT Zesiger Center\, 120 Vassar St\, Cambridge\, MA
+DESCRIPTION:Open Rec Swim lanes:\n6am-6:15am: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n6:15am-7:30am: 20 lanes (Competition 6\, Dive Well 8\, Teaching 6)\n7:30am-7:45am: 16 lanes (Competition 2\, Dive Well 8\, Teaching 6)\n7:45am-9am: 8 lanes (Competition 2\, Dive Well 0\, Teaching 6)\n9am-10:15am: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n10:15am-10:45am: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n10:45am-11:15am: 20 lanes (Competition 12\, Dive Well 8\, Teaching 0)\n11:15am-12pm: 13 lanes (Competition 12\, Dive Well 1\, Teaching 0)\n12pm-12:15pm: 8 lanes (Competition 7\, Dive Well 1\, Teaching 0)\n12:15pm-12:45pm: 14 lanes (Competition 7\, Dive Well 1\, Teaching 6)\n12:45pm-1:15pm: 8 lanes (Competition 7\, Dive Well 1\, Teaching 0)\n1:15pm-3pm: 20 lanes (Competition 12\, Dive Well 8\, Teaching 0)\n3pm-3:15pm: 13 lanes (Competition 12\, Dive Well 1\, Teaching 0)\n3:15pm-4:30pm: 19 lanes (Competition 12\, Dive Well 1\, Teaching 6)\n4:30pm-5:30pm: 7 lanes (Competition 0\, Dive Well 1\, Teaching 6)\n5:30pm-7pm: 5 lanes (Competition 0\, Dive Well 1\, Teaching 4)\n7pm-7:15pm: 8 lanes (Competition 0\, Dive Well 4\, Teaching 4)\n7:15pm-7:30pm: 11 lanes (Competition 3\, Dive Well 4\, Teaching 4)\n7:30pm-8:15pm: 13 lanes (Competition 3\, Dive Well 4\, Teaching 6)\n8:15pm-8:30pm: 7 lanes (Competition 3\, Dive Well 4\, Teaching 0)\n8:30pm-9pm: 15 lanes (Competition 7\, Dive Well 8\, Teaching 0)\n9pm-9:15pm: 7 lanes (Competition 7\, Dive Well 0\, Teaching 0)\n9:15pm-11pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mit-20261105-zcenter-360@harvard-pool-calendar
+DTSTAMP:20261013T191610Z
+DTSTART;TZID=America/New_York:20261105T060000
+DTEND;TZID=America/New_York:20261105T230000
+SUMMARY:MIT Z Center rec swim (5-26 lanes)
+LOCATION:MIT Zesiger Center\, 120 Vassar St\, Cambridge\, MA
+DESCRIPTION:Open Rec Swim lanes:\n6am-6:15am: 19 lanes (Competition 12\, Dive Well 1\, Teaching 6)\n6:15am-7am: 13 lanes (Competition 6\, Dive Well 1\, Teaching 6)\n7am-7:30am: 20 lanes (Competition 6\, Dive Well 8\, Teaching 6)\n7:30am-8am: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n8am-10:45am: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n10:45am-3pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n3pm-3:15pm: 8 lanes (Competition 7\, Dive Well 1\, Teaching 0)\n3:15pm-4:30pm: 14 lanes (Competition 7\, Dive Well 1\, Teaching 6)\n4:30pm-5:30pm: 7 lanes (Competition 0\, Dive Well 1\, Teaching 6)\n5:30pm-7pm: 5 lanes (Competition 0\, Dive Well 1\, Teaching 4)\n7pm-7:15pm: 8 lanes (Competition 0\, Dive Well 4\, Teaching 4)\n7:15pm-7:30pm: 16 lanes (Competition 8\, Dive Well 4\, Teaching 4)\n7:30pm-8:15pm: 18 lanes (Competition 8\, Dive Well 4\, Teaching 6)\n8:15pm-8:30pm: 12 lanes (Competition 8\, Dive Well 4\, Teaching 0)\n8:30pm-9pm: 16 lanes (Competition 12\, Dive Well 4\, Teaching 0)\n9pm-9:30pm: 8 lanes (Competition 8\, Dive Well 0\, Teaching 0)\n9:30pm-10:30pm: 12 lanes (Competition 8\, Dive Well 4\, Teaching 0)\n10:30pm-11pm: 16 lanes (Competition 12\, Dive Well 4\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mit-20261106-zcenter-360@harvard-pool-calendar
+DTSTAMP:20261013T191610Z
+DTSTART;TZID=America/New_York:20261106T060000
+DTEND;TZID=America/New_York:20261106T210000
+SUMMARY:MIT Z Center rec swim (4-26 lanes)
+LOCATION:MIT Zesiger Center\, 120 Vassar St\, Cambridge\, MA
+DESCRIPTION:Open Rec Swim lanes:\n6am-6:15am: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n6:15am-7:30am: 20 lanes (Competition 6\, Dive Well 8\, Teaching 6)\n7:30am-7:45am: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n7:45am-10:15am: 18 lanes (Competition 12\, Dive Well 0\, Teaching 6)\n10:15am-12pm: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n12pm-1:15pm: 21 lanes (Competition 7\, Dive Well 8\, Teaching 6)\n1:15pm-2:30pm: 26 lanes (Competition 12\, Dive Well 8\, Teaching 6)\n2:30pm-4:30pm: 14 lanes (Competition 0\, Dive Well 8\, Teaching 6)\n4:30pm-5:30pm: 6 lanes (Competition 0\, Dive Well 0\, Teaching 6)\n5:30pm-7:30pm: 4 lanes (Competition 0\, Dive Well 0\, Teaching 4)\n7:30pm-9pm: 6 lanes (Competition 0\, Dive Well 0\, Teaching 6)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mit-20261106-zcenter-1320@harvard-pool-calendar
+DTSTAMP:20261013T191610Z
+DTSTART;TZID=America/New_York:20261106T220000
+DTEND;TZID=America/New_York:20261106T230000
+SUMMARY:MIT Z Center rec swim (20 lanes)
+LOCATION:MIT Zesiger Center\, 120 Vassar St\, Cambridge\, MA
+DESCRIPTION:Open Rec Swim lanes:\n10pm-11pm: 20 lanes (Competition 12\, Dive Well 8\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mit-20261107-zcenter-420@harvard-pool-calendar
+DTSTAMP:20261013T191610Z
+DTSTART;TZID=America/New_York:20261107T070000
+DTEND;TZID=America/New_York:20261107T083000
+SUMMARY:MIT Z Center rec swim (6-13 lanes)
+LOCATION:MIT Zesiger Center\, 120 Vassar St\, Cambridge\, MA
+DESCRIPTION:Open Rec Swim lanes:\n7am-8am: 13 lanes (Competition 0\, Dive Well 7\, Teaching 6)\n8am-8:30am: 6 lanes (Competition 0\, Dive Well 0\, Teaching 6)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mit-20261107-zcenter-600@harvard-pool-calendar
+DTSTAMP:20261013T191610Z
+DTSTART;TZID=America/New_York:20261107T100000
+DTEND;TZID=America/New_York:20261107T210000
+SUMMARY:MIT Z Center rec swim (6-23 lanes)
+LOCATION:MIT Zesiger Center\, 120 Vassar St\, Cambridge\, MA
+DESCRIPTION:Open Rec Swim lanes:\n10am-11am: 7 lanes (Competition 0\, Dive Well 7\, Teaching 0)\n11am-12pm: 6 lanes (Competition 0\, Dive Well 6\, Teaching 0)\n12pm-1:30pm: 18 lanes (Competition 12\, Dive Well 6\, Teaching 0)\n1:30pm-5pm: 23 lanes (Competition 12\, Dive Well 7\, Teaching 4)\n5pm-6pm: 11 lanes (Competition 0\, Dive Well 7\, Teaching 4)\n6pm-9pm: 13 lanes (Competition 0\, Dive Well 7\, Teaching 6)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mit-20261108-zcenter-540@harvard-pool-calendar
+DTSTAMP:20261013T191610Z
+DTSTART;TZID=America/New_York:20261108T090000
+DTEND;TZID=America/New_York:20261108T130000
+SUMMARY:MIT Z Center rec swim (7-14 lanes)
+LOCATION:MIT Zesiger Center\, 120 Vassar St\, Cambridge\, MA
+DESCRIPTION:Open Rec Swim lanes:\n9am-10am: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n10am-10:30am: 7 lanes (Competition 7\, Dive Well 0\, Teaching 0)\n10:30am-11:15am: 9 lanes (Competition 7\, Dive Well 2\, Teaching 0)\n11:15am-1pm: 14 lanes (Competition 12\, Dive Well 2\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mit-20261108-zcenter-870@harvard-pool-calendar
+DTSTAMP:20261013T191610Z
+DTSTART;TZID=America/New_York:20261108T143000
+DTEND;TZID=America/New_York:20261108T230000
+SUMMARY:MIT Z Center rec swim (12-25 lanes)
+LOCATION:MIT Zesiger Center\, 120 Vassar St\, Cambridge\, MA
+DESCRIPTION:Open Rec Swim lanes:\n2:30pm-5:15pm: 13 lanes (Competition 0\, Dive Well 7\, Teaching 6)\n5:15pm-9pm: 25 lanes (Competition 12\, Dive Well 7\, Teaching 6)\n9pm-11pm: 12 lanes (Competition 12\, Dive Well 0\, Teaching 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-z/?week=1
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
