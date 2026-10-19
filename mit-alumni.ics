@@ -25,68 +25,8 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:mit-20261012-alumnipool-360@harvard-pool-calendar
-DTSTAMP:20261017T042359Z
-DTSTART;TZID=America/New_York:20261012T060000
-DTEND;TZID=America/New_York:20261012T210000
-SUMMARY:MIT Alumni Pool rec swim (9 lanes)
-LOCATION:MIT Alumni Pool\, 32 Vassar St\, Cambridge\, MA
-DESCRIPTION:Open Rec Swim lanes:\n6am-9pm: 9 lanes (Teaching 3\, Lap 6)\n\nSource: https://www.mitrecsports.com/pool-schedule-aw/?week=1
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mit-20261013-alumnipool-360@harvard-pool-calendar
-DTSTAMP:20261017T042359Z
-DTSTART;TZID=America/New_York:20261013T060000
-DTEND;TZID=America/New_York:20261013T210000
-SUMMARY:MIT Alumni Pool rec swim (6-9 lanes)
-LOCATION:MIT Alumni Pool\, 32 Vassar St\, Cambridge\, MA
-DESCRIPTION:Open Rec Swim lanes:\n6am-10am: 9 lanes (Teaching 3\, Lap 6)\n10am-12pm: 6 lanes (Teaching 0\, Lap 6)\n12pm-4pm: 9 lanes (Teaching 3\, Lap 6)\n4pm-6:30pm: 7 lanes (Teaching 3\, Lap 4)\n6:30pm-9pm: 9 lanes (Teaching 3\, Lap 6)\n\nSource: https://www.mitrecsports.com/pool-schedule-aw/?week=1
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mit-20261014-alumnipool-360@harvard-pool-calendar
-DTSTAMP:20261017T042359Z
-DTSTART;TZID=America/New_York:20261014T060000
-DTEND;TZID=America/New_York:20261014T210000
-SUMMARY:MIT Alumni Pool rec swim (3-9 lanes)
-LOCATION:MIT Alumni Pool\, 32 Vassar St\, Cambridge\, MA
-DESCRIPTION:Open Rec Swim lanes:\n6am-12pm: 9 lanes (Teaching 3\, Lap 6)\n12pm-4pm: 7 lanes (Teaching 3\, Lap 4)\n4pm-6pm: 9 lanes (Teaching 3\, Lap 6)\n6pm-7pm: 7 lanes (Teaching 3\, Lap 4)\n7pm-7:30pm: 9 lanes (Teaching 3\, Lap 6)\n7:30pm-9pm: 3 lanes (Teaching 3\, Lap 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-aw/?week=1
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mit-20261015-alumnipool-360@harvard-pool-calendar
-DTSTAMP:20261017T042359Z
-DTSTART;TZID=America/New_York:20261015T060000
-DTEND;TZID=America/New_York:20261015T210000
-SUMMARY:MIT Alumni Pool rec swim (6-9 lanes)
-LOCATION:MIT Alumni Pool\, 32 Vassar St\, Cambridge\, MA
-DESCRIPTION:Open Rec Swim lanes:\n6am-10am: 9 lanes (Teaching 3\, Lap 6)\n10am-3pm: 7 lanes (Teaching 3\, Lap 4)\n3pm-6:45pm: 9 lanes (Teaching 3\, Lap 6)\n6:45pm-9pm: 6 lanes (Teaching 3\, Lap 3)\n\nSource: https://www.mitrecsports.com/pool-schedule-aw/?week=1
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mit-20261016-alumnipool-360@harvard-pool-calendar
-DTSTAMP:20261017T042359Z
-DTSTART;TZID=America/New_York:20261016T060000
-DTEND;TZID=America/New_York:20261016T210000
-SUMMARY:MIT Alumni Pool rec swim (3-9 lanes)
-LOCATION:MIT Alumni Pool\, 32 Vassar St\, Cambridge\, MA
-DESCRIPTION:Open Rec Swim lanes:\n6am-4:30pm: 9 lanes (Teaching 3\, Lap 6)\n4:30pm-7:30pm: 3 lanes (Teaching 3\, Lap 0)\n7:30pm-8pm: 7 lanes (Teaching 3\, Lap 4)\n8pm-9pm: 9 lanes (Teaching 3\, Lap 6)\n\nSource: https://www.mitrecsports.com/pool-schedule-aw/?week=1
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mit-20261017-alumnipool-540@harvard-pool-calendar
-DTSTAMP:20261017T042359Z
-DTSTART;TZID=America/New_York:20261017T090000
-DTEND;TZID=America/New_York:20261017T150000
-SUMMARY:MIT Alumni Pool rec swim (9 lanes)
-LOCATION:MIT Alumni Pool\, 32 Vassar St\, Cambridge\, MA
-DESCRIPTION:Open Rec Swim lanes:\n9am-3pm: 9 lanes (Teaching 3\, Lap 6)\n\nSource: https://www.mitrecsports.com/pool-schedule-aw/?week=1
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:mit-20261019-alumnipool-360@harvard-pool-calendar
-DTSTAMP:20261017T042359Z
+DTSTAMP:20261019T184316Z
 DTSTART;TZID=America/New_York:20261019T060000
 DTEND;TZID=America/New_York:20261019T210000
 SUMMARY:MIT Alumni Pool rec swim (3-9 lanes)
@@ -96,7 +36,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mit-20261020-alumnipool-360@harvard-pool-calendar
-DTSTAMP:20261017T042359Z
+DTSTAMP:20261019T184316Z
 DTSTART;TZID=America/New_York:20261020T060000
 DTEND;TZID=America/New_York:20261020T210000
 SUMMARY:MIT Alumni Pool rec swim (6-9 lanes)
@@ -106,7 +46,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mit-20261021-alumnipool-360@harvard-pool-calendar
-DTSTAMP:20261017T042359Z
+DTSTAMP:20261019T184316Z
 DTSTART;TZID=America/New_York:20261021T060000
 DTEND;TZID=America/New_York:20261021T210000
 SUMMARY:MIT Alumni Pool rec swim (3-9 lanes)
@@ -116,17 +56,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mit-20261022-alumnipool-360@harvard-pool-calendar
-DTSTAMP:20261017T042359Z
+DTSTAMP:20261019T184316Z
 DTSTART;TZID=America/New_York:20261022T060000
 DTEND;TZID=America/New_York:20261022T210000
 SUMMARY:MIT Alumni Pool rec swim (6-9 lanes)
 LOCATION:MIT Alumni Pool\, 32 Vassar St\, Cambridge\, MA
-DESCRIPTION:Open Rec Swim lanes:\n6am-7am: 9 lanes (Teaching 3\, Lap 6)\n7am-8am: 6 lanes (Teaching 3\, Lap 3)\n8am-4:30pm: 9 lanes (Teaching 3\, Lap 6)\n4:30pm-6pm: 7 lanes (Teaching 3\, Lap 4)\n6pm-6:45pm: 9 lanes (Teaching 3\, Lap 6)\n6:45pm-9pm: 6 lanes (Teaching 3\, Lap 3)\n\nSource: https://www.mitrecsports.com/pool-schedule-aw/?week=1
+DESCRIPTION:Open Rec Swim lanes:\n6am-7am: 9 lanes (Teaching 3\, Lap 6)\n7am-8am: 6 lanes (Teaching 3\, Lap 3)\n8am-10am: 9 lanes (Teaching 3\, Lap 6)\n10am-2pm: 7 lanes (Teaching 3\, Lap 4)\n2pm-4:30pm: 9 lanes (Teaching 3\, Lap 6)\n4:30pm-6pm: 7 lanes (Teaching 3\, Lap 4)\n6pm-6:45pm: 9 lanes (Teaching 3\, Lap 6)\n6:45pm-9pm: 6 lanes (Teaching 3\, Lap 3)\n\nSource: https://www.mitrecsports.com/pool-schedule-aw/?week=1
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mit-20261023-alumnipool-360@harvard-pool-calendar
-DTSTAMP:20261017T042359Z
+DTSTAMP:20261019T184316Z
 DTSTART;TZID=America/New_York:20261023T060000
 DTEND;TZID=America/New_York:20261023T210000
 SUMMARY:MIT Alumni Pool rec swim (7-9 lanes)
@@ -136,7 +76,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mit-20261026-alumnipool-360@harvard-pool-calendar
-DTSTAMP:20261017T042359Z
+DTSTAMP:20261019T184316Z
 DTSTART;TZID=America/New_York:20261026T060000
 DTEND;TZID=America/New_York:20261026T210000
 SUMMARY:MIT Alumni Pool rec swim (3-9 lanes)
@@ -146,7 +86,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mit-20261027-alumnipool-360@harvard-pool-calendar
-DTSTAMP:20261017T042359Z
+DTSTAMP:20261019T184316Z
 DTSTART;TZID=America/New_York:20261027T060000
 DTEND;TZID=America/New_York:20261027T114500
 SUMMARY:MIT Alumni Pool rec swim (9 lanes)
@@ -156,7 +96,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mit-20261027-alumnipool-795@harvard-pool-calendar
-DTSTAMP:20261017T042359Z
+DTSTAMP:20261019T184316Z
 DTSTART;TZID=America/New_York:20261027T131500
 DTEND;TZID=America/New_York:20261027T210000
 SUMMARY:MIT Alumni Pool rec swim (6-9 lanes)
@@ -166,7 +106,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mit-20261028-alumnipool-360@harvard-pool-calendar
-DTSTAMP:20261017T042359Z
+DTSTAMP:20261019T184316Z
 DTSTART;TZID=America/New_York:20261028T060000
 DTEND;TZID=America/New_York:20261028T210000
 SUMMARY:MIT Alumni Pool rec swim (3-9 lanes)
@@ -176,7 +116,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mit-20261029-alumnipool-360@harvard-pool-calendar
-DTSTAMP:20261017T042359Z
+DTSTAMP:20261019T184316Z
 DTSTART;TZID=America/New_York:20261029T060000
 DTEND;TZID=America/New_York:20261029T210000
 SUMMARY:MIT Alumni Pool rec swim (6-9 lanes)
@@ -186,7 +126,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mit-20261030-alumnipool-360@harvard-pool-calendar
-DTSTAMP:20261017T042359Z
+DTSTAMP:20261019T184316Z
 DTSTART;TZID=America/New_York:20261030T060000
 DTEND;TZID=America/New_York:20261030T210000
 SUMMARY:MIT Alumni Pool rec swim (7-9 lanes)
@@ -196,7 +136,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mit-20261102-alumnipool-360@harvard-pool-calendar
-DTSTAMP:20261017T042359Z
+DTSTAMP:20261019T184316Z
 DTSTART;TZID=America/New_York:20261102T060000
 DTEND;TZID=America/New_York:20261102T210000
 SUMMARY:MIT Alumni Pool rec swim (3-9 lanes)
@@ -206,7 +146,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mit-20261103-alumnipool-360@harvard-pool-calendar
-DTSTAMP:20261017T042359Z
+DTSTAMP:20261019T184316Z
 DTSTART;TZID=America/New_York:20261103T060000
 DTEND;TZID=America/New_York:20261103T210000
 SUMMARY:MIT Alumni Pool rec swim (6-9 lanes)
@@ -216,7 +156,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mit-20261104-alumnipool-360@harvard-pool-calendar
-DTSTAMP:20261017T042359Z
+DTSTAMP:20261019T184316Z
 DTSTART;TZID=America/New_York:20261104T060000
 DTEND;TZID=America/New_York:20261104T210000
 SUMMARY:MIT Alumni Pool rec swim (3-9 lanes)
@@ -226,7 +166,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mit-20261105-alumnipool-360@harvard-pool-calendar
-DTSTAMP:20261017T042359Z
+DTSTAMP:20261019T184316Z
 DTSTART;TZID=America/New_York:20261105T060000
 DTEND;TZID=America/New_York:20261105T210000
 SUMMARY:MIT Alumni Pool rec swim (6-9 lanes)
@@ -236,9 +176,59 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:mit-20261106-alumnipool-360@harvard-pool-calendar
-DTSTAMP:20261017T042359Z
+DTSTAMP:20261019T184316Z
 DTSTART;TZID=America/New_York:20261106T060000
 DTEND;TZID=America/New_York:20261106T210000
+SUMMARY:MIT Alumni Pool rec swim (7-9 lanes)
+LOCATION:MIT Alumni Pool\, 32 Vassar St\, Cambridge\, MA
+DESCRIPTION:Open Rec Swim lanes:\n6am-6:30pm: 9 lanes (Teaching 3\, Lap 6)\n6:30pm-7:30pm: 7 lanes (Teaching 3\, Lap 4)\n7:30pm-9pm: 9 lanes (Teaching 3\, Lap 6)\n\nSource: https://www.mitrecsports.com/pool-schedule-aw/?week=1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mit-20261109-alumnipool-360@harvard-pool-calendar
+DTSTAMP:20261019T184316Z
+DTSTART;TZID=America/New_York:20261109T060000
+DTEND;TZID=America/New_York:20261109T210000
+SUMMARY:MIT Alumni Pool rec swim (3-9 lanes)
+LOCATION:MIT Alumni Pool\, 32 Vassar St\, Cambridge\, MA
+DESCRIPTION:Open Rec Swim lanes:\n6am-5pm: 9 lanes (Teaching 3\, Lap 6)\n5pm-6pm: 6 lanes (Teaching 0\, Lap 6)\n6pm-7pm: 7 lanes (Teaching 3\, Lap 4)\n7pm-7:30pm: 9 lanes (Teaching 3\, Lap 6)\n7:30pm-9pm: 3 lanes (Teaching 3\, Lap 0)\n\nSource: https://www.mitrecsports.com/pool-schedule-aw/?week=1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mit-20261110-alumnipool-360@harvard-pool-calendar
+DTSTAMP:20261019T184316Z
+DTSTART;TZID=America/New_York:20261110T060000
+DTEND;TZID=America/New_York:20261110T210000
+SUMMARY:MIT Alumni Pool rec swim (6-9 lanes)
+LOCATION:MIT Alumni Pool\, 32 Vassar St\, Cambridge\, MA
+DESCRIPTION:Open Rec Swim lanes:\n6am-4pm: 9 lanes (Teaching 3\, Lap 6)\n4pm-5:30pm: 8 lanes (Teaching 3\, Lap 5)\n5:30pm-6:30pm: 7 lanes (Teaching 3\, Lap 4)\n6:30pm-6:45pm: 9 lanes (Teaching 3\, Lap 6)\n6:45pm-9pm: 6 lanes (Teaching 3\, Lap 3)\n\nSource: https://www.mitrecsports.com/pool-schedule-aw/?week=1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mit-20261111-alumnipool-360@harvard-pool-calendar
+DTSTAMP:20261019T184316Z
+DTSTART;TZID=America/New_York:20261111T060000
+DTEND;TZID=America/New_York:20261111T210000
+SUMMARY:MIT Alumni Pool rec swim (9 lanes)
+LOCATION:MIT Alumni Pool\, 32 Vassar St\, Cambridge\, MA
+DESCRIPTION:Open Rec Swim lanes:\n6am-9pm: 9 lanes (Teaching 3\, Lap 6)\n\nSource: https://www.mitrecsports.com/pool-schedule-aw/?week=1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mit-20261112-alumnipool-360@harvard-pool-calendar
+DTSTAMP:20261019T184316Z
+DTSTART;TZID=America/New_York:20261112T060000
+DTEND;TZID=America/New_York:20261112T210000
+SUMMARY:MIT Alumni Pool rec swim (6-9 lanes)
+LOCATION:MIT Alumni Pool\, 32 Vassar St\, Cambridge\, MA
+DESCRIPTION:Open Rec Swim lanes:\n6am-7am: 9 lanes (Teaching 3\, Lap 6)\n7am-8am: 6 lanes (Teaching 3\, Lap 3)\n8am-9pm: 9 lanes (Teaching 3\, Lap 6)\n\nSource: https://www.mitrecsports.com/pool-schedule-aw/?week=1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mit-20261113-alumnipool-360@harvard-pool-calendar
+DTSTAMP:20261019T184316Z
+DTSTART;TZID=America/New_York:20261113T060000
+DTEND;TZID=America/New_York:20261113T210000
 SUMMARY:MIT Alumni Pool rec swim (7-9 lanes)
 LOCATION:MIT Alumni Pool\, 32 Vassar St\, Cambridge\, MA
 DESCRIPTION:Open Rec Swim lanes:\n6am-6:30pm: 9 lanes (Teaching 3\, Lap 6)\n6:30pm-7:30pm: 7 lanes (Teaching 3\, Lap 4)\n7:30pm-9pm: 9 lanes (Teaching 3\, Lap 6)\n\nSource: https://www.mitrecsports.com/pool-schedule-aw/?week=1
