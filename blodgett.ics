@@ -25,108 +25,8 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:harvard-20261021-blodgett-0@harvard-pool-calendar
-DTSTAMP:20261028T054006Z
-DTSTART;TZID=America/New_York:20261021T103000
-DTEND;TZID=America/New_York:20261021T170000
-SUMMARY:Blodgett Pool ⚠️
-LOCATION:Blodgett Pool\, 65 N Harvard St\, Boston\, MA
-DESCRIPTION:Hours: 10:30am - 5pm\n8 Lane CLOSED 12pm-1:15pm\n8 Lane Limited Lane Space 3pm-5pm\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:harvard-20261022-blodgett-0@harvard-pool-calendar
-DTSTAMP:20261028T054006Z
-DTSTART;TZID=America/New_York:20261022T090000
-DTEND;TZID=America/New_York:20261022T150000
-SUMMARY:Blodgett Pool ⚠️
-LOCATION:Blodgett Pool\, 65 N Harvard St\, Boston\, MA
-DESCRIPTION:Hours: 9am - 3pm\; 5:30pm - 9pm\n8 Lane CLOSED 12pm-1:15pm & 7:30pm-9pm\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:harvard-20261022-blodgett-1@harvard-pool-calendar
-DTSTAMP:20261028T054006Z
-DTSTART;TZID=America/New_York:20261022T173000
-DTEND;TZID=America/New_York:20261022T210000
-SUMMARY:Blodgett Pool ⚠️
-LOCATION:Blodgett Pool\, 65 N Harvard St\, Boston\, MA
-DESCRIPTION:Hours: 9am - 3pm\; 5:30pm - 9pm\n8 Lane CLOSED 12pm-1:15pm & 7:30pm-9pm\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:harvard-20261023-blodgett-0@harvard-pool-calendar
-DTSTAMP:20261028T054006Z
-DTSTART;TZID=America/New_York:20261023T093000
-DTEND;TZID=America/New_York:20261023T170000
-SUMMARY:Blodgett Pool ⚠️
-LOCATION:Blodgett Pool\, 65 N Harvard St\, Boston\, MA
-DESCRIPTION:Hours: 9:30am - 5pm\n8 Lane CLOSED 12pm-1pm\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:harvard-20261024-blodgett-0@harvard-pool-calendar
-DTSTAMP:20261028T054006Z
-DTSTART;TZID=America/New_York:20261024T100000
-DTEND;TZID=America/New_York:20261024T170000
-SUMMARY:Blodgett Pool ⚠️
-LOCATION:Blodgett Pool\, 65 N Harvard St\, Boston\, MA
-DESCRIPTION:Hours: 10am - 5pm\n8 Lane CLOSED 12pm-1:15pm\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:harvard-20261025-blodgett-0@harvard-pool-calendar
-DTSTAMP:20261028T054006Z
-DTSTART;TZID=America/New_York:20261025T090000
-DTEND;TZID=America/New_York:20261025T170000
-SUMMARY:Blodgett Pool
-LOCATION:Blodgett Pool\, 65 N Harvard St\, Boston\, MA
-DESCRIPTION:Hours: 9am - 5pm\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:harvard-20261026-blodgett-0@harvard-pool-calendar
-DTSTAMP:20261028T054006Z
-DTSTART;TZID=America/New_York:20261026T090000
-DTEND;TZID=America/New_York:20261026T150000
-SUMMARY:Blodgett Pool ⚠️
-LOCATION:Blodgett Pool\, 65 N Harvard St\, Boston\, MA
-DESCRIPTION:Hours: 9am - 3pm\; 7:30pm - 8:30pm\n8 Lane CLOSED 12pm-1:15pm\; 7:30-8:30pm\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:harvard-20261026-blodgett-1@harvard-pool-calendar
-DTSTAMP:20261028T054006Z
-DTSTART;TZID=America/New_York:20261026T193000
-DTEND;TZID=America/New_York:20261026T203000
-SUMMARY:Blodgett Pool ⚠️
-LOCATION:Blodgett Pool\, 65 N Harvard St\, Boston\, MA
-DESCRIPTION:Hours: 9am - 3pm\; 7:30pm - 8:30pm\n8 Lane CLOSED 12pm-1:15pm\; 7:30-8:30pm\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:harvard-20261027-blodgett-0@harvard-pool-calendar
-DTSTAMP:20261028T054006Z
-DTSTART;TZID=America/New_York:20261027T090000
-DTEND;TZID=America/New_York:20261027T150000
-SUMMARY:Blodgett Pool ⚠️
-LOCATION:Blodgett Pool\, 65 N Harvard St\, Boston\, MA
-DESCRIPTION:Hours: 9am - 3pm\; 5:30pm - 7pm\n8 Lane CLOSED 12pm-1:15pm\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:harvard-20261027-blodgett-1@harvard-pool-calendar
-DTSTAMP:20261028T054006Z
-DTSTART;TZID=America/New_York:20261027T173000
-DTEND;TZID=America/New_York:20261027T190000
-SUMMARY:Blodgett Pool ⚠️
-LOCATION:Blodgett Pool\, 65 N Harvard St\, Boston\, MA
-DESCRIPTION:Hours: 9am - 3pm\; 5:30pm - 7pm\n8 Lane CLOSED 12pm-1:15pm\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:harvard-20261028-blodgett-0@harvard-pool-calendar
-DTSTAMP:20261028T054006Z
+DTSTAMP:20261028T182044Z
 DTSTART;TZID=America/New_York:20261028T103000
 DTEND;TZID=America/New_York:20261028T150000
 SUMMARY:Blodgett Pool ⚠️
@@ -136,7 +36,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:harvard-20261029-blodgett-0@harvard-pool-calendar
-DTSTAMP:20261028T054006Z
+DTSTAMP:20261028T182044Z
 DTSTART;TZID=America/New_York:20261029T090000
 DTEND;TZID=America/New_York:20261029T150000
 SUMMARY:Blodgett Pool ⚠️
@@ -146,7 +46,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:harvard-20261029-blodgett-1@harvard-pool-calendar
-DTSTAMP:20261028T054006Z
+DTSTAMP:20261028T182044Z
 DTSTART;TZID=America/New_York:20261029T193000
 DTEND;TZID=America/New_York:20261029T210000
 SUMMARY:Blodgett Pool ⚠️
@@ -156,7 +56,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:harvard-20261030-blodgett-0@harvard-pool-calendar
-DTSTAMP:20261028T054006Z
+DTSTAMP:20261028T182044Z
 DTSTART;TZID=America/New_York:20261030T103000
 DTEND;TZID=America/New_York:20261030T130000
 SUMMARY:Blodgett Pool ⚠️
@@ -166,7 +66,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:harvard-20261030-blodgett-1@harvard-pool-calendar
-DTSTAMP:20261028T054006Z
+DTSTAMP:20261028T182044Z
 DTSTART;TZID=America/New_York:20261030T180000
 DTEND;TZID=America/New_York:20261030T210000
 SUMMARY:Blodgett Pool ⚠️
@@ -176,7 +76,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:harvard-20261031-blodgett-closed@harvard-pool-calendar
-DTSTAMP:20261028T054006Z
+DTSTAMP:20261028T182044Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Blodgett Pool CLOSED
@@ -186,7 +86,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:harvard-20261101-blodgett-closed@harvard-pool-calendar
-DTSTAMP:20261028T054006Z
+DTSTAMP:20261028T182044Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Blodgett Pool CLOSED
@@ -196,7 +96,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:harvard-20261102-blodgett-0@harvard-pool-calendar
-DTSTAMP:20261028T054006Z
+DTSTAMP:20261028T182044Z
 DTSTART;TZID=America/New_York:20261102T103000
 DTEND;TZID=America/New_York:20261102T150000
 SUMMARY:Blodgett Pool ⚠️
@@ -206,7 +106,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:harvard-20261102-blodgett-1@harvard-pool-calendar
-DTSTAMP:20261028T054006Z
+DTSTAMP:20261028T182044Z
 DTSTART;TZID=America/New_York:20261102T193000
 DTEND;TZID=America/New_York:20261102T210000
 SUMMARY:Blodgett Pool ⚠️
@@ -216,7 +116,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:harvard-20261103-blodgett-0@harvard-pool-calendar
-DTSTAMP:20261028T054006Z
+DTSTAMP:20261028T182044Z
 DTSTART;TZID=America/New_York:20261103T090000
 DTEND;TZID=America/New_York:20261103T150000
 SUMMARY:Blodgett Pool ⚠️
@@ -226,7 +126,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:harvard-20261103-blodgett-1@harvard-pool-calendar
-DTSTAMP:20261028T054006Z
+DTSTAMP:20261028T182044Z
 DTSTART;TZID=America/New_York:20261103T173000
 DTEND;TZID=America/New_York:20261103T210000
 SUMMARY:Blodgett Pool ⚠️
@@ -236,12 +136,112 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:harvard-20261104-blodgett-0@harvard-pool-calendar
-DTSTAMP:20261028T054006Z
+DTSTAMP:20261028T182044Z
 DTSTART;TZID=America/New_York:20261104T103000
 DTEND;TZID=America/New_York:20261104T150000
 SUMMARY:Blodgett Pool ⚠️
 LOCATION:Blodgett Pool\, 65 N Harvard St\, Boston\, MA
 DESCRIPTION:Hours: 10:30am - 3pm\n8 Lane CLOSED 12pm-1:15pm\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:harvard-20261105-blodgett-0@harvard-pool-calendar
+DTSTAMP:20261028T182044Z
+DTSTART;TZID=America/New_York:20261105T090000
+DTEND;TZID=America/New_York:20261105T150000
+SUMMARY:Blodgett Pool ⚠️
+LOCATION:Blodgett Pool\, 65 N Harvard St\, Boston\, MA
+DESCRIPTION:Hours: 9am - 3pm\; 7:30pm - 9pm\n8 Lane CLOSED 12pm-1:15pm & 7:30pm-9pm\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:harvard-20261105-blodgett-1@harvard-pool-calendar
+DTSTAMP:20261028T182044Z
+DTSTART;TZID=America/New_York:20261105T193000
+DTEND;TZID=America/New_York:20261105T210000
+SUMMARY:Blodgett Pool ⚠️
+LOCATION:Blodgett Pool\, 65 N Harvard St\, Boston\, MA
+DESCRIPTION:Hours: 9am - 3pm\; 7:30pm - 9pm\n8 Lane CLOSED 12pm-1:15pm & 7:30pm-9pm\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:harvard-20261106-blodgett-0@harvard-pool-calendar
+DTSTAMP:20261028T182044Z
+DTSTART;TZID=America/New_York:20261106T100000
+DTEND;TZID=America/New_York:20261106T130000
+SUMMARY:Blodgett Pool ⚠️
+LOCATION:Blodgett Pool\, 65 N Harvard St\, Boston\, MA
+DESCRIPTION:Hours: 10am - 1pm\n8 Lane CLOSED 12pm-1pm\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:harvard-20261107-blodgett-closed@harvard-pool-calendar
+DTSTAMP:20261028T182044Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Blodgett Pool CLOSED
+LOCATION:Blodgett Pool\, 65 N Harvard St\, Boston\, MA
+DESCRIPTION:\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:harvard-20261108-blodgett-closed@harvard-pool-calendar
+DTSTAMP:20261028T182044Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Blodgett Pool CLOSED
+LOCATION:Blodgett Pool\, 65 N Harvard St\, Boston\, MA
+DESCRIPTION:\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:harvard-20261109-blodgett-0@harvard-pool-calendar
+DTSTAMP:20261028T182044Z
+DTSTART;TZID=America/New_York:20261109T090000
+DTEND;TZID=America/New_York:20261109T150000
+SUMMARY:Blodgett Pool ⚠️
+LOCATION:Blodgett Pool\, 65 N Harvard St\, Boston\, MA
+DESCRIPTION:Hours: 9am - 3pm\; 7:30pm - 9pm\n8 Lane CLOSED 12pm-1:15pm\; 7:30-9pm\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:harvard-20261109-blodgett-1@harvard-pool-calendar
+DTSTAMP:20261028T182044Z
+DTSTART;TZID=America/New_York:20261109T193000
+DTEND;TZID=America/New_York:20261109T210000
+SUMMARY:Blodgett Pool ⚠️
+LOCATION:Blodgett Pool\, 65 N Harvard St\, Boston\, MA
+DESCRIPTION:Hours: 9am - 3pm\; 7:30pm - 9pm\n8 Lane CLOSED 12pm-1:15pm\; 7:30-9pm\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:harvard-20261110-blodgett-0@harvard-pool-calendar
+DTSTAMP:20261028T182044Z
+DTSTART;TZID=America/New_York:20261110T090000
+DTEND;TZID=America/New_York:20261110T150000
+SUMMARY:Blodgett Pool ⚠️
+LOCATION:Blodgett Pool\, 65 N Harvard St\, Boston\, MA
+DESCRIPTION:Hours: 9am - 3pm\; 5:30pm - 9pm\n8 Lane CLOSED 12pm-1:15pm\n8 Lane & MD CLOSED 5:30pm-7:30pm\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:harvard-20261110-blodgett-1@harvard-pool-calendar
+DTSTAMP:20261028T182044Z
+DTSTART;TZID=America/New_York:20261110T173000
+DTEND;TZID=America/New_York:20261110T210000
+SUMMARY:Blodgett Pool ⚠️
+LOCATION:Blodgett Pool\, 65 N Harvard St\, Boston\, MA
+DESCRIPTION:Hours: 9am - 3pm\; 5:30pm - 9pm\n8 Lane CLOSED 12pm-1:15pm\n8 Lane & MD CLOSED 5:30pm-7:30pm\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:harvard-20261111-blodgett-0@harvard-pool-calendar
+DTSTAMP:20261028T182044Z
+DTSTART;TZID=America/New_York:20261111T103000
+DTEND;TZID=America/New_York:20261111T150000
+SUMMARY:Blodgett Pool ⚠️
+LOCATION:Blodgett Pool\, 65 N Harvard St\, Boston\, MA
+DESCRIPTION:Hours: 10:30am - 3pm\n8 Lane CLOSED 12:30pm-2:30pm\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

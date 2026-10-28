@@ -25,78 +25,8 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:harvard-20261021-mac-0@harvard-pool-calendar
-DTSTAMP:20261028T054006Z
-DTSTART;TZID=America/New_York:20261021T070000
-DTEND;TZID=America/New_York:20261021T190000
-SUMMARY:MAC Pool ⚠️
-LOCATION:Malkin Athletic Center\, 39 Holyoke St\, Cambridge\, MA
-DESCRIPTION:Hours: 7am - 7pm\nSmall Pool CLOSED 12pm-1:15pm\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:harvard-20261022-mac-0@harvard-pool-calendar
-DTSTAMP:20261028T054006Z
-DTSTART;TZID=America/New_York:20261022T070000
-DTEND;TZID=America/New_York:20261022T190000
-SUMMARY:MAC Pool
-LOCATION:Malkin Athletic Center\, 39 Holyoke St\, Cambridge\, MA
-DESCRIPTION:Hours: 7am - 7pm\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:harvard-20261023-mac-0@harvard-pool-calendar
-DTSTAMP:20261028T054006Z
-DTSTART;TZID=America/New_York:20261023T070000
-DTEND;TZID=America/New_York:20261023T170000
-SUMMARY:MAC Pool ⚠️
-LOCATION:Malkin Athletic Center\, 39 Holyoke St\, Cambridge\, MA
-DESCRIPTION:Hours: 7am - 5pm\nSmall Pool CLOSED 10:30am-11:30am\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:harvard-20261024-mac-0@harvard-pool-calendar
-DTSTAMP:20261028T054006Z
-DTSTART;TZID=America/New_York:20261024T090000
-DTEND;TZID=America/New_York:20261024T163000
-SUMMARY:MAC Pool ⚠️
-LOCATION:Malkin Athletic Center\, 39 Holyoke St\, Cambridge\, MA
-DESCRIPTION:Hours: 9am - 4:30pm\nSmall Pool CLOSED 9am-10am\nLimited Pool Space 10am-12pm\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:harvard-20261025-mac-0@harvard-pool-calendar
-DTSTAMP:20261028T054006Z
-DTSTART;TZID=America/New_York:20261025T090000
-DTEND;TZID=America/New_York:20261025T150000
-SUMMARY:MAC Pool ⚠️
-LOCATION:Malkin Athletic Center\, 39 Holyoke St\, Cambridge\, MA
-DESCRIPTION:Hours: 9am - 3pm\nSmall Pool CLOSED 9am-10am\nLimited Pool Space 10am-3pm\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:harvard-20261026-mac-0@harvard-pool-calendar
-DTSTAMP:20261028T054006Z
-DTSTART;TZID=America/New_York:20261026T070000
-DTEND;TZID=America/New_York:20261026T190000
-SUMMARY:MAC Pool ⚠️
-LOCATION:Malkin Athletic Center\, 39 Holyoke St\, Cambridge\, MA
-DESCRIPTION:Hours: 7am - 7pm\nSmall Pool CLOSED 6pm-7p\nLimited Pool Space 10am-12pm\; 6pm-7pm\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:harvard-20261027-mac-0@harvard-pool-calendar
-DTSTAMP:20261028T054006Z
-DTSTART;TZID=America/New_York:20261027T070000
-DTEND;TZID=America/New_York:20261027T190000
-SUMMARY:MAC Pool ⚠️
-LOCATION:Malkin Athletic Center\, 39 Holyoke St\, Cambridge\, MA
-DESCRIPTION:Hours: 7am - 7pm\nSmall Pool CLOSED 4pm-7pm\nLimited Pool Space 10am-11am\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:harvard-20261028-mac-0@harvard-pool-calendar
-DTSTAMP:20261028T054006Z
+DTSTAMP:20261028T182044Z
 DTSTART;TZID=America/New_York:20261028T070000
 DTEND;TZID=America/New_York:20261028T190000
 SUMMARY:MAC Pool ⚠️
@@ -106,17 +36,17 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:harvard-20261029-mac-0@harvard-pool-calendar
-DTSTAMP:20261028T054006Z
+DTSTAMP:20261028T182044Z
 DTSTART;TZID=America/New_York:20261029T070000
-DTEND;TZID=America/New_York:20261029T190000
+DTEND;TZID=America/New_York:20261029T210000
 SUMMARY:MAC Pool ⚠️
 LOCATION:Malkin Athletic Center\, 39 Holyoke St\, Cambridge\, MA
-DESCRIPTION:Hours: 7am - 7pm\nSmall Pool CLOSED 4pm-5pm\nLimited Pool Space 10am-11am\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
+DESCRIPTION:Hours: 7am - 9pm\nSmall Pool CLOSED 4pm-5pm\; 7pm-9pm\nLimited Pool Space 10am-11am\; 7pm-9pm\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:harvard-20261030-mac-0@harvard-pool-calendar
-DTSTAMP:20261028T054006Z
+DTSTAMP:20261028T182044Z
 DTSTART;TZID=America/New_York:20261030T070000
 DTEND;TZID=America/New_York:20261030T170000
 SUMMARY:MAC Pool ⚠️
@@ -126,7 +56,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:harvard-20261031-mac-0@harvard-pool-calendar
-DTSTAMP:20261028T054006Z
+DTSTAMP:20261028T182044Z
 DTSTART;TZID=America/New_York:20261031T090000
 DTEND;TZID=America/New_York:20261031T163000
 SUMMARY:MAC Pool ⚠️
@@ -136,7 +66,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:harvard-20261101-mac-0@harvard-pool-calendar
-DTSTAMP:20261028T054006Z
+DTSTAMP:20261028T182044Z
 DTSTART;TZID=America/New_York:20261101T090000
 DTEND;TZID=America/New_York:20261101T150000
 SUMMARY:MAC Pool ⚠️
@@ -146,7 +76,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:harvard-20261102-mac-0@harvard-pool-calendar
-DTSTAMP:20261028T054006Z
+DTSTAMP:20261028T182044Z
 DTSTART;TZID=America/New_York:20261102T070000
 DTEND;TZID=America/New_York:20261102T190000
 SUMMARY:MAC Pool ⚠️
@@ -156,19 +86,89 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:harvard-20261103-mac-0@harvard-pool-calendar
-DTSTAMP:20261028T054006Z
+DTSTAMP:20261028T182044Z
 DTSTART;TZID=America/New_York:20261103T070000
-DTEND;TZID=America/New_York:20261103T190000
+DTEND;TZID=America/New_York:20261103T210000
 SUMMARY:MAC Pool ⚠️
 LOCATION:Malkin Athletic Center\, 39 Holyoke St\, Cambridge\, MA
-DESCRIPTION:Hours: 7am - 7pm\nSmall Pool CLOSED 4pm-7pm\nLimited Pool Space 10am-11am\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
+DESCRIPTION:Hours: 7am - 9pm\nSmall Pool CLOSED 4pm-9pm\nLimited Pool Space 10am-11am\; 7pm-9pm\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:harvard-20261104-mac-0@harvard-pool-calendar
-DTSTAMP:20261028T054006Z
+DTSTAMP:20261028T182044Z
 DTSTART;TZID=America/New_York:20261104T070000
 DTEND;TZID=America/New_York:20261104T190000
+SUMMARY:MAC Pool ⚠️
+LOCATION:Malkin Athletic Center\, 39 Holyoke St\, Cambridge\, MA
+DESCRIPTION:Hours: 7am - 7pm\nSmall Pool CLOSED 12pm-1:15pm\; 6pm-7pm\nLimited Pool Space 10am-12pm\; 6pm-7pm\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:harvard-20261105-mac-0@harvard-pool-calendar
+DTSTAMP:20261028T182044Z
+DTSTART;TZID=America/New_York:20261105T070000
+DTEND;TZID=America/New_York:20261105T210000
+SUMMARY:MAC Pool ⚠️
+LOCATION:Malkin Athletic Center\, 39 Holyoke St\, Cambridge\, MA
+DESCRIPTION:Hours: 7am - 9pm\nSmall Pool CLOSED 4pm-9pm\nLimited Pool Space 10am-11am\; 7pm-9pm\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:harvard-20261106-mac-0@harvard-pool-calendar
+DTSTAMP:20261028T182044Z
+DTSTART;TZID=America/New_York:20261106T070000
+DTEND;TZID=America/New_York:20261106T170000
+SUMMARY:MAC Pool ⚠️
+LOCATION:Malkin Athletic Center\, 39 Holyoke St\, Cambridge\, MA
+DESCRIPTION:Hours: 7am - 5pm\nSmall Pool CLOSED 10:30am-11:30am\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:harvard-20261107-mac-0@harvard-pool-calendar
+DTSTAMP:20261028T182044Z
+DTSTART;TZID=America/New_York:20261107T090000
+DTEND;TZID=America/New_York:20261107T163000
+SUMMARY:MAC Pool ⚠️
+LOCATION:Malkin Athletic Center\, 39 Holyoke St\, Cambridge\, MA
+DESCRIPTION:Hours: 9am - 4:30pm\nSmall Pool CLOSED 9am-10am\nLimited Pool Space 10am-12pm\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:harvard-20261108-mac-0@harvard-pool-calendar
+DTSTAMP:20261028T182044Z
+DTSTART;TZID=America/New_York:20261108T090000
+DTEND;TZID=America/New_York:20261108T150000
+SUMMARY:MAC Pool ⚠️
+LOCATION:Malkin Athletic Center\, 39 Holyoke St\, Cambridge\, MA
+DESCRIPTION:Hours: 9am - 3pm\nSmall Pool CLOSED 9am-10am\nLimited Pool Space 10am-3pm\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:harvard-20261109-mac-0@harvard-pool-calendar
+DTSTAMP:20261028T182044Z
+DTSTART;TZID=America/New_York:20261109T070000
+DTEND;TZID=America/New_York:20261109T190000
+SUMMARY:MAC Pool ⚠️
+LOCATION:Malkin Athletic Center\, 39 Holyoke St\, Cambridge\, MA
+DESCRIPTION:Hours: 7am - 7pm\nSmall Pool CLOSED 6pm-7p\nLimited Pool Space 10am-12pm\; 6pm-7pm\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:harvard-20261110-mac-0@harvard-pool-calendar
+DTSTAMP:20261028T182044Z
+DTSTART;TZID=America/New_York:20261110T070000
+DTEND;TZID=America/New_York:20261110T190000
+SUMMARY:MAC Pool ⚠️
+LOCATION:Malkin Athletic Center\, 39 Holyoke St\, Cambridge\, MA
+DESCRIPTION:Hours: 7am - 7pm\nSmall Pool CLOSED 4pm-9pm\nLimited Pool Space 10am-11am\; 7pm-9pm\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:harvard-20261111-mac-0@harvard-pool-calendar
+DTSTAMP:20261028T182044Z
+DTSTART;TZID=America/New_York:20261111T070000
+DTEND;TZID=America/New_York:20261111T190000
 SUMMARY:MAC Pool ⚠️
 LOCATION:Malkin Athletic Center\, 39 Holyoke St\, Cambridge\, MA
 DESCRIPTION:Hours: 7am - 7pm\nSmall Pool CLOSED 12pm-1:15pm\; 6pm-7pm\nLimited Pool Space 10am-12pm\; 6pm-7pm\n\nSource: https://recreation.gocrimson.com/sports/2021/5/14/facility-hours.aspx
